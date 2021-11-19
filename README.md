@@ -6,7 +6,7 @@ It is owned and maintained by [Cyber Security Case Studies](https://www.cybersec
 The taxonomy has been iteratively developed through the analysis of thousands of highly-detailed cyber security case studies. [Further information on the taxonomy can be found here](https://www.cybersecuritycasestudies.com/global-cyber-event-taxonomy).
 
 ## Development
-This repository contains both JSON and XML versions of the GCET. New versions will be released periodically as new classifications are incorporated.
+This repository contains both [JSON](gcet.json) and [XML](gcet.xml) versions of the GCET. New versions will be released periodically as new classifications are incorporated.
 
 Major structual changes will first be proposed as a pull request and if there's no public objections within 30 calendar days, will be merged into the master branch.
 
