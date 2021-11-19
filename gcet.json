@@ -1,0 +1,3099 @@
+{
+  "name": "GCET",
+  "children": [
+    {
+      "name": "Additional context",
+      "children": [
+        {
+          "name": "Attacked during non-standard working hours"
+        },
+        {
+          "name": "Attacker unknown to industry oversight body"
+        },
+        {
+          "name": "Company diversifying"
+        },
+        {
+          "name": "Economic conditions",
+          "children": [
+            {
+              "name": "Stable"
+            },
+            {
+              "name": "Volatile"
+            }
+          ]
+        },
+        {
+          "name": "Key executives leaving/joining"
+        },
+        {
+          "name": "Limited resource pool"
+        },
+        {
+          "name": "National holiday"
+        },
+        {
+          "name": "New ownership"
+        },
+        {
+          "name": "Organisational disruption"
+        },
+        {
+          "name": "Political upheaval"
+        },
+        {
+          "name": "Public holiday/Weekend/Vacation"
+        },
+        {
+          "name": "Questionable business model"
+        },
+        {
+          "name": "Systems re-engineering"
+        },
+        {
+          "name": "Victim company growth",
+          "children": [
+            {
+              "name": "Growth through acquisition"
+            },
+            {
+              "name": "Growth through mergers"
+            },
+            {
+              "name": "Rapid growth"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Event motivation",
+      "children": [
+        {
+          "name": "'Red Team' Test"
+        },
+        {
+          "name": "Alert victim to security issues"
+        },
+        {
+          "name": "Business Disruption"
+        },
+        {
+          "name": "Contact spamming"
+        },
+        {
+          "name": "Cyber Espionage"
+        },
+        {
+          "name": "Financial gains"
+        },
+        {
+          "name": "Financial gains (indirect)"
+        },
+        {
+          "name": "Hacktivism"
+        },
+        {
+          "name": "Identity Theft"
+        },
+        {
+          "name": "Intellectual property theft"
+        },
+        {
+          "name": "Mischief-making"
+        },
+        {
+          "name": "Ransom"
+        },
+        {
+          "name": "Societal Disruption"
+        },
+        {
+          "name": "State-sponsored"
+        },
+        {
+          "name": "Terror"
+        },
+        {
+          "name": "Use victim's processing power"
+        },
+        {
+          "name": "Vengeance"
+        },
+        {
+          "name": "War"
+        }
+      ]
+    },
+    {
+      "name": "Exacerbated by",
+      "children": [
+        {
+          "name": "Automated security tool over-reliance"
+        },
+        {
+          "name": "Corporate Governance Issues"
+        },
+        {
+          "name": "Customer Actions/Inactions"
+        },
+        {
+          "name": "Employee Actions/Inactions"
+        },
+        {
+          "name": "Employee conflicted"
+        },
+        {
+          "name": "Exceptions to standard security approach"
+        },
+        {
+          "name": "Improper senior management practices"
+        },
+        {
+          "name": "Inadequate monitoring practices"
+        },
+        {
+          "name": "Inadequate technology planning"
+        },
+        {
+          "name": "Internal controls lacking"
+        },
+        {
+          "name": "Lacking escalation"
+        },
+        {
+          "name": "Missed signals"
+        },
+        {
+          "name": "New markets/products"
+        },
+        {
+          "name": "Non-compliance"
+        },
+        {
+          "name": "Organisational gaps"
+        },
+        {
+          "name": "Poor Judgement"
+        },
+        {
+          "name": "Poor decisions"
+        },
+        {
+          "name": "Poor documentation"
+        },
+        {
+          "name": "Poor execution"
+        },
+        {
+          "name": "Slow responses"
+        },
+        {
+          "name": "Strategic Flaw"
+        },
+        {
+          "name": "Stretched resources"
+        },
+        {
+          "name": "Unclear reporting structure"
+        },
+        {
+          "name": "Underestimation of event's seriousness"
+        }
+      ]
+    },
+    {
+      "name": "External events",
+      "children": [
+        {
+          "name": "Business issues"
+        },
+        {
+          "name": "Disasters"
+        },
+        {
+          "name": "Legal issues"
+        },
+        {
+          "name": "Service dependencies"
+        }
+      ]
+    },
+    {
+      "name": "Failed Internal Processes",
+      "children": [
+        {
+          "name": "Process controls"
+        },
+        {
+          "name": "Process design or execution"
+        },
+        {
+          "name": "Supporting processes"
+        }
+      ]
+    },
+    {
+      "name": "Human behaviour factor",
+      "children": [
+        {
+          "name": "Caught user off-guard",
+          "children": [
+            {
+              "name": "Lacking diligence/vigilance"
+            },
+            {
+              "name": "Threats"
+            }
+          ]
+        },
+        {
+          "name": "Emotion targeted",
+          "children": [
+            {
+              "name": "Curiosity"
+            },
+            {
+              "name": "Desire"
+            },
+            {
+              "name": "Duty"
+            },
+            {
+              "name": "Fear"
+            },
+            {
+              "name": "Greed"
+            },
+            {
+              "name": "Laziness"
+            },
+            {
+              "name": "Trust"
+            },
+            {
+              "name": "Urgency"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Human targeted",
+      "children": [
+        {
+          "name": "Customer",
+          "children": [
+            {
+              "name": "Deliberate"
+            },
+            {
+              "name": "Disbelief"
+            },
+            {
+              "name": "Inaction"
+            },
+            {
+              "name": "Inadvertent"
+            }
+          ]
+        },
+        {
+          "name": "Leaving employee",
+          "children": [
+            {
+              "name": "Deliberate"
+            },
+            {
+              "name": "Disbelief"
+            },
+            {
+              "name": "Inaction"
+            },
+            {
+              "name": "Inadvertent "
+            }
+          ]
+        },
+        {
+          "name": "Non-senior employee",
+          "children": [
+            {
+              "name": "Deliberate"
+            },
+            {
+              "name": "Disbelief"
+            },
+            {
+              "name": "Inaction"
+            },
+            {
+              "name": "Inadvertent"
+            }
+          ]
+        },
+        {
+          "name": "Senior employee",
+          "children": [
+            {
+              "name": "Deliberate"
+            },
+            {
+              "name": "Disbelief "
+            },
+            {
+              "name": "Inaction"
+            },
+            {
+              "name": "Inadvertent "
+            }
+          ]
+        },
+        {
+          "name": "Third party",
+          "children": [
+            {
+              "name": "Deliberate"
+            },
+            {
+              "name": "Disbelief"
+            },
+            {
+              "name": "Inaction"
+            },
+            {
+              "name": "Inadvertent "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ICT risk category",
+      "children": [
+        {
+          "name": "Availability and Continuity",
+          "children": [
+            {
+              "name": "Disruptive and destructive"
+            },
+            {
+              "name": "Generic"
+            }
+          ]
+        },
+        {
+          "name": "Change",
+          "children": [
+            {
+              "name": "Generic"
+            },
+            {
+              "name": "Inadequate change control",
+              "children": [
+                {
+                  "name": "Generic"
+                },
+                {
+                  "name": "Ill-secured systems/applications released"
+                },
+                {
+                  "name": "Inadequate test environment"
+                },
+                {
+                  "name": "Insufficiently tested software/configuration changes"
+                },
+                {
+                  "name": "Internally developed software"
+                },
+                {
+                  "name": "Uncontrolled changes in production"
+                },
+                {
+                  "name": "Undetected errors or vulnerabilities"
+                }
+              ]
+            },
+            {
+              "name": "Inadequate lifecycle management",
+              "children": [
+                {
+                  "name": "Missed patching",
+                  "children": [
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Unpatched/outdated systems"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Data Integrity",
+          "children": [
+            {
+              "name": "Generic"
+            }
+          ]
+        },
+        {
+          "name": "Outsourcing",
+          "children": [
+            {
+              "name": "Generic"
+            },
+            {
+              "name": "Inadequate governance",
+              "children": [
+                {
+                  "name": "Lacking skills and capabilities"
+                }
+              ]
+            },
+            {
+              "name": "Inadequate third party security",
+              "children": [
+                {
+                  "name": "Unauthorised access",
+                  "children": [
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Malicious insiders steal/sell data"
+                    },
+                    {
+                      "name": "Targeted to access victim’s systems/data"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Security",
+          "children": [
+            {
+              "name": "External cyber/ICT attacks",
+              "children": [
+                {
+                  "name": "Attacks collecting data/committing fraud",
+                  "children": [
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Unprotected authentication data intercept"
+                    }
+                  ]
+                },
+                {
+                  "name": "Circumvent security for fraudulent securities transactions",
+                  "children": [
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Pump and dump attack"
+                    }
+                  ]
+                },
+                {
+                  "name": "Internal systems takeover",
+                  "children": [
+                    {
+                      "name": "APT"
+                    },
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Malware encrypts data"
+                    },
+                    {
+                      "name": "Trojan horses infection"
+                    },
+                    {
+                      "name": "Vulnerability exploited"
+                    }
+                  ]
+                },
+                {
+                  "name": "Vulnerability exploited for fraudulent payments",
+                  "children": [
+                    {
+                      "name": "Fraudulent transaction from within"
+                    },
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Unauthorised (e-banking) transaction"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Generic"
+            },
+            {
+              "name": "Inadequate internal security",
+              "children": [
+                {
+                  "name": "Employees not following P&Ps",
+                  "children": [
+                    {
+                      "name": "Bad password practices"
+                    },
+                    {
+                      "name": "Employees tricked into assisting"
+                    },
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Storing unencrypted data on portable devices"
+                    }
+                  ]
+                },
+                {
+                  "name": "Inadequate access management",
+                  "children": [
+                    {
+                      "name": "Excessive access rights/privileges"
+                    },
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Redundant accounts not disabled/deleted "
+                    }
+                  ]
+                },
+                {
+                  "name": "Unauthorised access from within",
+                  "children": [
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Install key-stroke loggers"
+                    },
+                    {
+                      "name": "Sysadmin modifies database"
+                    },
+                    {
+                      "name": "Weak password practices"
+                    }
+                  ]
+                },
+                {
+                  "name": "Unauthorised data storage/transfer",
+                  "children": [
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Information stolen or leaked"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Inadequate physical security",
+              "children": [
+                {
+                  "name": "Assets/data damaged/lost",
+                  "children": [
+                    {
+                      "name": "Assets stolen or data copied"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Impact Type",
+      "children": [
+        {
+          "name": "Availability",
+          "children": [
+            {
+              "name": "Critical business processes disrupted"
+            },
+            {
+              "name": "Non-critical business processes disrupted"
+            }
+          ]
+        },
+        {
+          "name": "Data",
+          "children": [
+            {
+              "name": "Data Accessed",
+              "children": [
+                {
+                  "name": "Generic"
+                },
+                {
+                  "name": "Unauthorised parties viewed confidential information"
+                }
+              ]
+            },
+            {
+              "name": "Data Loss",
+              "children": [
+                {
+                  "name": "Accidental overwriting or deletion"
+                },
+                {
+                  "name": "Deliberate overwriting or deletion"
+                },
+                {
+                  "name": "Generic"
+                },
+                {
+                  "name": "System failure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Financial Loss/Fraud",
+          "children": [
+            {
+              "name": "Generic"
+            }
+          ]
+        },
+        {
+          "name": "Governance Issue",
+          "children": [
+            {
+              "name": "Contractual requirements not met"
+            },
+            {
+              "name": "Data custodianship lacking"
+            },
+            {
+              "name": "Incident management"
+            },
+            {
+              "name": "Non-compliance"
+            },
+            {
+              "name": "Obligations not met"
+            },
+            {
+              "name": "Poor cyber examples"
+            }
+          ]
+        },
+        {
+          "name": "Systems breached"
+        }
+      ]
+    },
+    {
+      "name": "Industry",
+      "children": [
+        {
+          "name": "Arts"
+        },
+        {
+          "name": "Automobiles"
+        },
+        {
+          "name": "Banking services"
+        },
+        {
+          "name": "Capital Goods"
+        },
+        {
+          "name": "Commercial & Professional Services"
+        },
+        {
+          "name": "Construction"
+        },
+        {
+          "name": "Consumer Durables & Apparel"
+        },
+        {
+          "name": "Consumer Services"
+        },
+        {
+          "name": "Diversified Financials"
+        },
+        {
+          "name": "Education"
+        },
+        {
+          "name": "Energy"
+        },
+        {
+          "name": "Food, Beverage & Tobacco"
+        },
+        {
+          "name": "Healthcare"
+        },
+        {
+          "name": "Household Products"
+        },
+        {
+          "name": "Insurance"
+        },
+        {
+          "name": "Manufacturing"
+        },
+        {
+          "name": "Materials"
+        },
+        {
+          "name": "Media"
+        },
+        {
+          "name": "Military"
+        },
+        {
+          "name": "Nonprofit"
+        },
+        {
+          "name": "Pharmaceuticals & Biotechnology"
+        },
+        {
+          "name": "Political/Government"
+        },
+        {
+          "name": "Professional sports"
+        },
+        {
+          "name": "Real Estate"
+        },
+        {
+          "name": "Regulator"
+        },
+        {
+          "name": "Retailing"
+        },
+        {
+          "name": "Semiconductors"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Technology Hardware"
+        },
+        {
+          "name": "Telecomms"
+        },
+        {
+          "name": "Transportation"
+        },
+        {
+          "name": "Utilities"
+        }
+      ]
+    },
+    {
+      "name": "Key facts",
+      "children": [
+        {
+          "name": "Alerted by whistleblower"
+        },
+        {
+          "name": "Attack successfully defended against"
+        },
+        {
+          "name": "Attackers used delaying tactics"
+        },
+        {
+          "name": "Bounty paid"
+        },
+        {
+          "name": "Breached after third party intrusion"
+        },
+        {
+          "name": "CEO fired! resigned!"
+        },
+        {
+          "name": "Cease processing order served"
+        },
+        {
+          "name": "Central bank cyber unit created after event"
+        },
+        {
+          "name": "Company 'cried wolf'"
+        },
+        {
+          "name": "Company executives were fined"
+        },
+        {
+          "name": "Company statement",
+          "children": [
+            {
+              "name": "Attributes",
+              "children": [
+                {
+                  "name": "CEO video message"
+                },
+                {
+                  "name": "Comments section"
+                },
+                {
+                  "name": "Dedicated cyber incident page"
+                },
+                {
+                  "name": "Event diagram"
+                },
+                {
+                  "name": "Eyewitness account"
+                }
+              ]
+            },
+            {
+              "name": "Events",
+              "children": [
+                {
+                  "name": "2nd statement issued"
+                },
+                {
+                  "name": "No longer public"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Complimentary password manager access"
+        },
+        {
+          "name": "Customers offered \"lifelong protection\""
+        },
+        {
+          "name": "Customers suffered fraud"
+        },
+        {
+          "name": "Cyber insurance elevated *after* incident"
+        },
+        {
+          "name": "Cyber insurance elevated *before* incident"
+        },
+        {
+          "name": "Cyber near miss"
+        },
+        {
+          "name": "Death caused by cyber attack"
+        },
+        {
+          "name": "Distraction techniques deployed"
+        },
+        {
+          "name": "Encryption used",
+          "children": [
+            {
+              "name": "MD5"
+            },
+            {
+              "name": "SHA-1"
+            },
+            {
+              "name": "bcrypt"
+            }
+          ]
+        },
+        {
+          "name": "Event coverage",
+          "children": [
+            {
+              "name": "Criticised cyber defences"
+            },
+            {
+              "name": "Criticised incident response"
+            },
+            {
+              "name": "Praised incident response"
+            }
+          ]
+        },
+        {
+          "name": "Event not publicly disclosed"
+        },
+        {
+          "name": "Experts engaged after read-across events"
+        },
+        {
+          "name": "Fate of employee involved",
+          "children": [
+            {
+              "name": "Arrested/convicted"
+            },
+            {
+              "name": "Fired"
+            },
+            {
+              "name": "Resigned"
+            },
+            {
+              "name": "Suspended"
+            }
+          ]
+        },
+        {
+          "name": "Game-changer event"
+        },
+        {
+          "name": "Gray Rhino"
+        },
+        {
+          "name": "Group",
+          "children": [
+            {
+              "name": "ALTDOS"
+            },
+            {
+              "name": "APT 18"
+            },
+            {
+              "name": "APT 31"
+            },
+            {
+              "name": "Anonymous"
+            },
+            {
+              "name": "Avaddon"
+            },
+            {
+              "name": "AvosLocker"
+            },
+            {
+              "name": "Axiom"
+            },
+            {
+              "name": "Babuk"
+            },
+            {
+              "name": "Black Shadow "
+            },
+            {
+              "name": "Blue Termite"
+            },
+            {
+              "name": "Calypso APT"
+            },
+            {
+              "name": "Cleaver"
+            },
+            {
+              "name": "Cobalt Dickens"
+            },
+            {
+              "name": "Conti"
+            },
+            {
+              "name": "Cozy Bear / APT 29 / Nobelium / The Dukes"
+            },
+            {
+              "name": "Crackas with Attitude"
+            },
+            {
+              "name": "Cutting Sword of Justice"
+            },
+            {
+              "name": "Darkside"
+            },
+            {
+              "name": "Deep Panda"
+            },
+            {
+              "name": "Desorden"
+            },
+            {
+              "name": "DoppelPaymer / Grief"
+            },
+            {
+              "name": "Evil Corp"
+            },
+            {
+              "name": "Fancy Bear / APT 28 / Tsar Team"
+            },
+            {
+              "name": "Fin7 / Carbanak / Navigator / JokerStash"
+            },
+            {
+              "name": "Gnosticplayers"
+            },
+            {
+              "name": "Hades"
+            },
+            {
+              "name": "Hafnium"
+            },
+            {
+              "name": "HelloKitty"
+            },
+            {
+              "name": "Hive"
+            },
+            {
+              "name": "Indra"
+            },
+            {
+              "name": "Kimsuky"
+            },
+            {
+              "name": "KovCoreG"
+            },
+            {
+              "name": "Lazarus / Guardians of Peace / Whois Team"
+            },
+            {
+              "name": "Lockean"
+            },
+            {
+              "name": "LulzSec"
+            },
+            {
+              "name": "Magecart"
+            },
+            {
+              "name": "Marketo"
+            },
+            {
+              "name": "MoneyTaker"
+            },
+            {
+              "name": "N3tw0rm"
+            },
+            {
+              "name": "NSO Group"
+            },
+            {
+              "name": "Nefilim"
+            },
+            {
+              "name": "NetWalker"
+            },
+            {
+              "name": "Odinaff"
+            },
+            {
+              "name": "PLA Unit 61398 / APT 1"
+            },
+            {
+              "name": "Ragnarok"
+            },
+            {
+              "name": "RansomEXX"
+            },
+            {
+              "name": "RedFoxtrot"
+            },
+            {
+              "name": "Sandworm / Unit 74455"
+            },
+            {
+              "name": "Shadow Kill Hackers"
+            },
+            {
+              "name": "ShinyHunters"
+            },
+            {
+              "name": "Silence"
+            },
+            {
+              "name": "Syrian Electronic Army"
+            },
+            {
+              "name": "TA505"
+            },
+            {
+              "name": "The Dark Overlord / TDO"
+            },
+            {
+              "name": "The Impact Team"
+            },
+            {
+              "name": "Vice Society"
+            },
+            {
+              "name": "Whitefly"
+            },
+            {
+              "name": "Winnti Group / Wicked Panda / Blackfly"
+            },
+            {
+              "name": "Wizard Spider"
+            }
+          ]
+        },
+        {
+          "name": "Hacker's customer services' level shown"
+        },
+        {
+          "name": "Hacker/Attacker jailed"
+        },
+        {
+          "name": "Hacking back demonstrated"
+        },
+        {
+          "name": "Individuals",
+          "children": [
+            {
+              "name": "Albert Gonzalez"
+            },
+            {
+              "name": "Connor Allsopp"
+            },
+            {
+              "name": "Courvoisier/Grant West"
+            },
+            {
+              "name": "Gnosticplayers"
+            },
+            {
+              "name": "IShAkDz"
+            },
+            {
+              "name": "Lifelock"
+            },
+            {
+              "name": "Mak Man"
+            },
+            {
+              "name": "Matthew Hanley"
+            },
+            {
+              "name": "Mr Smith"
+            },
+            {
+              "name": "MrRabotnik"
+            },
+            {
+              "name": "Nik Cubrilovic"
+            },
+            {
+              "name": "Peace"
+            },
+            {
+              "name": "Phineas Fisher"
+            },
+            {
+              "name": "Revolver / 1x0123"
+            },
+            {
+              "name": "Ruslan Bondars"
+            },
+            {
+              "name": "Sven Jaschan"
+            },
+            {
+              "name": "Yevgeniy Nikulin"
+            }
+          ]
+        },
+        {
+          "name": "Law enforcement employed hacker"
+        },
+        {
+          "name": "Logic bomb implantation possible"
+        },
+        {
+          "name": "No customer or partner service impact"
+        },
+        {
+          "name": "No. of cybersecurity staff disclosed"
+        },
+        {
+          "name": "Non-employee discovered breach"
+        },
+        {
+          "name": "Personally Identifiable Information",
+          "children": [
+            {
+              "name": "PII impacted"
+            },
+            {
+              "name": "PII not impacted"
+            }
+          ]
+        },
+        {
+          "name": "Political figures' data exposed"
+        },
+        {
+          "name": "Ransom demanded was not paid"
+        },
+        {
+          "name": "Ransom demanded was paid"
+        },
+        {
+          "name": "Researcher made findings public before victim informed"
+        },
+        {
+          "name": "Security researcher's findings disputed"
+        },
+        {
+          "name": "Share price impact"
+        },
+        {
+          "name": "Shares suspended from trading"
+        },
+        {
+          "name": "Specific cyber insurance policy"
+        },
+        {
+          "name": "Stakeholders' event perception",
+          "children": [
+            {
+              "name": "Despair"
+            },
+            {
+              "name": "Satisfied"
+            },
+            {
+              "name": "Satisfied (delayed info share)"
+            },
+            {
+              "name": "Satisfied (delayed response)"
+            },
+            {
+              "name": "Suspicious"
+            },
+            {
+              "name": "Unhappy"
+            }
+          ]
+        },
+        {
+          "name": "State-sponsored attack"
+        },
+        {
+          "name": "Third-party arrangement ceased"
+        },
+        {
+          "name": "Undetectable malware"
+        },
+        {
+          "name": "Victim employed hacker"
+        }
+      ]
+    },
+    {
+      "name": "Key statistics",
+      "children": [
+        {
+          "name": "Event resolution",
+          "children": [
+            {
+              "name": "Quicker than average (malicious insider)"
+            },
+            {
+              "name": "Quicker than average (ransomware)"
+            },
+            {
+              "name": "Slower than average (malicious insider)"
+            },
+            {
+              "name": "Slower than average (ransomware)"
+            }
+          ]
+        },
+        {
+          "name": "Immediate costs"
+        },
+        {
+          "name": "Slow-burn costs"
+        }
+      ]
+    },
+    {
+      "name": "Lessons learnt",
+      "children": [
+        {
+          "name": "Accountability and governance can't be outsourced"
+        },
+        {
+          "name": "Actions speak louder than words"
+        },
+        {
+          "name": "Availability of low-cost attack tools",
+          "children": [
+            {
+              "name": "Cyber criminals focus"
+            },
+            {
+              "name": "Generic"
+            }
+          ]
+        },
+        {
+          "name": "Bad security habits persist when no-one speaks up"
+        },
+        {
+          "name": "Be aware of employees’ internet activities"
+        },
+        {
+          "name": "Benefit of a written cyber incident response plan"
+        },
+        {
+          "name": "Beware imperious management styles of IT/security"
+        },
+        {
+          "name": "Beware the untouchable employee"
+        },
+        {
+          "name": "Breach confessed too late for damage limitation"
+        },
+        {
+          "name": "CEO fired! resigned!"
+        },
+        {
+          "name": "Companies should consider why hacktivists may target them"
+        },
+        {
+          "name": "Complete and comprehensible cyber risk reporting"
+        },
+        {
+          "name": "Compliance with regulations does not mean security"
+        },
+        {
+          "name": "Cyber control strategy includes preventative and detective controls"
+        },
+        {
+          "name": "Cyber criminals are well funded"
+        },
+        {
+          "name": "Cyber events are not just IT issues!"
+        },
+        {
+          "name": "Cyber security includes the 'hard side' and the 'soft side'"
+        },
+        {
+          "name": "Cyber security means empowering staff"
+        },
+        {
+          "name": "Cyber threats represent a multi-competency problem"
+        },
+        {
+          "name": "Cyber tone from the top can be below standard"
+        },
+        {
+          "name": "Cybersecurity isn’t just about computers"
+        },
+        {
+          "name": "Damages paid but no actual harm proven"
+        },
+        {
+          "name": "Deleted data can be recovered"
+        },
+        {
+          "name": "Demonstrates the need for high-reliability organisations"
+        },
+        {
+          "name": "Deploy global best practices"
+        },
+        {
+          "name": "Do not employ inexplicable cyber risk strategies"
+        },
+        {
+          "name": "Dr. Guishan Rai is India's first CISO"
+        },
+        {
+          "name": "Early detection enables immediate countermeasures"
+        },
+        {
+          "name": "Evaluate many intelligence sources"
+        },
+        {
+          "name": "Event cover up can make matters worse"
+        },
+        {
+          "name": "Fighting APTs requires a robust program and the right tech"
+        },
+        {
+          "name": "Hackers are organised and professional"
+        },
+        {
+          "name": "Hackers steal CVV2 codes before encryption with malware "
+        },
+        {
+          "name": "Immediately report incident and take proper response steps"
+        },
+        {
+          "name": "Immediately report unauthorised charges to card issuers"
+        },
+        {
+          "name": "Importance of robust breach detection and/or response capability",
+          "children": [
+            {
+              "name": "Robust breach detection"
+            },
+            {
+              "name": "Robust breach detection and response"
+            },
+            {
+              "name": "Robust response capability"
+            }
+          ]
+        },
+        {
+          "name": "Improper information security can be expensive"
+        },
+        {
+          "name": "Incident response judged keenly when employees are implicated"
+        },
+        {
+          "name": "Individuals can hide issues during organisational changes"
+        },
+        {
+          "name": "Insiders are hard to catch!"
+        },
+        {
+          "name": "Insurance claim",
+          "children": [
+            {
+              "name": "Insurer did not pay"
+            },
+            {
+              "name": "Insurer paid"
+            },
+            {
+              "name": "Unclear whether claim will be honoured"
+            },
+            {
+              "name": "Victim had no cyber insurance"
+            }
+          ]
+        },
+        {
+          "name": "Investigations are expensive and worthwhile"
+        },
+        {
+          "name": "Layered approach to controlling access and movement of data"
+        },
+        {
+          "name": "Merchants are liable for data stolen"
+        },
+        {
+          "name": "Mitigation strategies should be physical and virtual"
+        },
+        {
+          "name": "Operate a zero trust approach for cyber resilience"
+        },
+        {
+          "name": "Opting out should mean removal from the database"
+        },
+        {
+          "name": "Organisations not sufficiently reducing phishing and ransomware risks"
+        },
+        {
+          "name": "Paying ransom doesn’t guarantee files will be returned"
+        },
+        {
+          "name": "Poor cyber security can be a business ending event"
+        },
+        {
+          "name": "Quickly get onto the money trail to recover stolen funds"
+        },
+        {
+          "name": "Reputational risk of securing data can not be ignored"
+        },
+        {
+          "name": "SMS is insufficient for 2FA"
+        },
+        {
+          "name": "SWIFT India's systems have never been breached"
+        },
+        {
+          "name": "Secure/Productive struggle"
+        },
+        {
+          "name": "Security companies are also vulnerable"
+        },
+        {
+          "name": "Security settings' misconfiguration has exposed many databases"
+        },
+        {
+          "name": "Seek external help when event exceeds internal capabilities"
+        },
+        {
+          "name": "Signalled the need for a new defense doctrine"
+        },
+        {
+          "name": "Structural problems in cyber risk need active attention"
+        },
+        {
+          "name": "Understanding TTPs is essential"
+        },
+        {
+          "name": "Victim immediately blamed vendor"
+        },
+        {
+          "name": "Victim vulnerable to known threats"
+        },
+        {
+          "name": "Victims face backlash if perceived as not taking event seriously "
+        },
+        {
+          "name": "Victims play competing roles in cyber attacks"
+        },
+        {
+          "name": "Vulnerabilities after management/executive changes"
+        },
+        {
+          "name": "Weakest link breaks the strongest chain"
+        }
+      ]
+    },
+    {
+      "name": "Location of victim",
+      "children": [
+        {
+          "name": "Africa",
+          "children": [
+            {
+              "name": "Angola"
+            },
+            {
+              "name": "Egypt"
+            },
+            {
+              "name": "Ethiopia"
+            },
+            {
+              "name": "Liberia"
+            },
+            {
+              "name": "Nigeria"
+            },
+            {
+              "name": "Seychelles"
+            },
+            {
+              "name": "South Africa"
+            },
+            {
+              "name": "Zimbabwe"
+            }
+          ]
+        },
+        {
+          "name": "Asia",
+          "children": [
+            {
+              "name": "Afghanistan"
+            },
+            {
+              "name": "Bahrain"
+            },
+            {
+              "name": "Bangladesh"
+            },
+            {
+              "name": "British overseas territory"
+            },
+            {
+              "name": "Cambodia"
+            },
+            {
+              "name": "China"
+            },
+            {
+              "name": "Dubai"
+            },
+            {
+              "name": "Hong Kong"
+            },
+            {
+              "name": "India"
+            },
+            {
+              "name": "Indonesia"
+            },
+            {
+              "name": "Iran"
+            },
+            {
+              "name": "Israel"
+            },
+            {
+              "name": "Japan"
+            },
+            {
+              "name": "Jordan"
+            },
+            {
+              "name": "Malaysia"
+            },
+            {
+              "name": "Nepal"
+            },
+            {
+              "name": "Pakistan"
+            },
+            {
+              "name": "Qatar"
+            },
+            {
+              "name": "Saudi Arabia"
+            },
+            {
+              "name": "Singapore"
+            },
+            {
+              "name": "South Korea"
+            },
+            {
+              "name": "Taiwan"
+            },
+            {
+              "name": "Thailand"
+            },
+            {
+              "name": "The Philippines"
+            },
+            {
+              "name": "United Arab Emirates"
+            },
+            {
+              "name": "Vietnam"
+            }
+          ]
+        },
+        {
+          "name": "Europe",
+          "children": [
+            {
+              "name": "Austria"
+            },
+            {
+              "name": "Belgium"
+            },
+            {
+              "name": "Bulgaria"
+            },
+            {
+              "name": "Croatia"
+            },
+            {
+              "name": "Cyprus"
+            },
+            {
+              "name": "Czech Republic"
+            },
+            {
+              "name": "Denmark"
+            },
+            {
+              "name": "Estonia"
+            },
+            {
+              "name": "Finland"
+            },
+            {
+              "name": "France"
+            },
+            {
+              "name": "Georgia"
+            },
+            {
+              "name": "Germany"
+            },
+            {
+              "name": "Greece"
+            },
+            {
+              "name": "Hungary"
+            },
+            {
+              "name": "Iceland"
+            },
+            {
+              "name": "Ireland"
+            },
+            {
+              "name": "Italy"
+            },
+            {
+              "name": "Latvia"
+            },
+            {
+              "name": "Lithuania"
+            },
+            {
+              "name": "Luxembourg"
+            },
+            {
+              "name": "Malta"
+            },
+            {
+              "name": "Norway"
+            },
+            {
+              "name": "Poland"
+            },
+            {
+              "name": "Portugal"
+            },
+            {
+              "name": "Romania"
+            },
+            {
+              "name": "Russia"
+            },
+            {
+              "name": "Slovakia"
+            },
+            {
+              "name": "Slovenia"
+            },
+            {
+              "name": "Spain"
+            },
+            {
+              "name": "Sweden"
+            },
+            {
+              "name": "Switzerland"
+            },
+            {
+              "name": "The Netherlands"
+            },
+            {
+              "name": "Turkey"
+            },
+            {
+              "name": "Ukraine"
+            },
+            {
+              "name": "United Kingdom"
+            }
+          ]
+        },
+        {
+          "name": "North America",
+          "children": [
+            {
+              "name": "Canada"
+            },
+            {
+              "name": "Jamaica"
+            },
+            {
+              "name": "Mexico"
+            },
+            {
+              "name": "Panama"
+            },
+            {
+              "name": "United States of America"
+            }
+          ]
+        },
+        {
+          "name": "Oceania",
+          "children": [
+            {
+              "name": "Australia"
+            },
+            {
+              "name": "New Zealand"
+            }
+          ]
+        },
+        {
+          "name": "South America",
+          "children": [
+            {
+              "name": "Argentina"
+            },
+            {
+              "name": "Brazil"
+            },
+            {
+              "name": "Chile"
+            },
+            {
+              "name": "Ecuador"
+            },
+            {
+              "name": "Venezuela"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "New or missing control",
+      "children": [
+        {
+          "name": "PDCR model",
+          "children": [
+            {
+              "name": "Contain threat",
+              "children": [
+                {
+                  "name": "\"Air gaps\" between back-ups "
+                },
+                {
+                  "name": "Deploy network segmentation"
+                },
+                {
+                  "name": "Disconnect all third-party tokens"
+                },
+                {
+                  "name": "Install patch for zero day"
+                },
+                {
+                  "name": "Security automation"
+                }
+              ]
+            },
+            {
+              "name": "Detect",
+              "children": [
+                {
+                  "name": "Activity alert thresholds"
+                },
+                {
+                  "name": "Apply signatures and behavioural-based solutions"
+                },
+                {
+                  "name": "DNS request monitoring tool"
+                },
+                {
+                  "name": "Deploy endpoint software"
+                },
+                {
+                  "name": "Deploy tools with 24/7 coverage"
+                },
+                {
+                  "name": "Greater monitoring"
+                },
+                {
+                  "name": "Highly sensitive file tracking"
+                },
+                {
+                  "name": "Intrusion detection software"
+                },
+                {
+                  "name": "Logging system for malicious incursions"
+                },
+                {
+                  "name": "Monitor 'suspicious account activity'"
+                },
+                {
+                  "name": "Monitor IOCs and react accordingly"
+                },
+                {
+                  "name": "Monitor access to password-laden script"
+                },
+                {
+                  "name": "Monitor application user behaviour"
+                },
+                {
+                  "name": "Monitor customer behaviour",
+                  "children": [
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Integrate machine learning techniques"
+                    }
+                  ]
+                },
+                {
+                  "name": "Monitor data at rest"
+                },
+                {
+                  "name": "Monitor data download patterns"
+                },
+                {
+                  "name": "Monitor domain administrator account"
+                },
+                {
+                  "name": "Monitor domain registrations"
+                },
+                {
+                  "name": "Monitor emails using your brand"
+                },
+                {
+                  "name": "Monitor server logs"
+                },
+                {
+                  "name": "Monitor the dark web"
+                },
+                {
+                  "name": "Monitor traffic"
+                },
+                {
+                  "name": "PAM audit and monitoring tool"
+                },
+                {
+                  "name": "Perform security audits",
+                  "children": [
+                    {
+                      "name": "Audit authentication points"
+                    },
+                    {
+                      "name": "Establish audit trails"
+                    },
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Perform audit of established network security rules"
+                    }
+                  ]
+                },
+                {
+                  "name": "Real-time security tools"
+                },
+                {
+                  "name": "Red flag mass downloads of data"
+                },
+                {
+                  "name": "Security rule misconfiguration alerts"
+                },
+                {
+                  "name": "Security rule misconfiguration detection tools"
+                },
+                {
+                  "name": "Segregated duties"
+                }
+              ]
+            },
+            {
+              "name": "Generic"
+            },
+            {
+              "name": "Protect",
+              "children": [
+                {
+                  "name": "Anti-virus software",
+                  "children": [
+                    {
+                      "name": "Apply email filters"
+                    },
+                    {
+                      "name": "Generic"
+                    }
+                  ]
+                },
+                {
+                  "name": "Apply most stringent filtering"
+                },
+                {
+                  "name": "Automated patching"
+                },
+                {
+                  "name": "Automated redaction tool"
+                },
+                {
+                  "name": "Block access to personal email sites"
+                },
+                {
+                  "name": "Check devices touching network",
+                  "children": [
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Keep endpoint devices on network segments"
+                    },
+                    {
+                      "name": "Scan all devices coming onto network"
+                    }
+                  ]
+                },
+                {
+                  "name": "CloudEnabled IAM"
+                },
+                {
+                  "name": "Conduct security and background checks"
+                },
+                {
+                  "name": "Create an integrated security environment"
+                },
+                {
+                  "name": "Deploy electronic funds transfer protocols",
+                  "children": [
+                    {
+                      "name": "Check legitimate business need for transfer"
+                    },
+                    {
+                      "name": "Do not allow email authorisation"
+                    },
+                    {
+                      "name": "Dual-signature for significant transactions"
+                    },
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Manual engagement with colleagues"
+                    },
+                    {
+                      "name": "Match invoice to a purchase order"
+                    },
+                    {
+                      "name": "Secondary approvals on large wire transfers"
+                    },
+                    {
+                      "name": "Verify transactions through appropriate channels"
+                    }
+                  ]
+                },
+                {
+                  "name": "Develop a vulnerability notification plan",
+                  "children": [
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Launch a bug bounty programme"
+                    },
+                    {
+                      "name": "Provide a vulnerability submission tool"
+                    }
+                  ]
+                },
+                {
+                  "name": "Disable all thumb drives "
+                },
+                {
+                  "name": "Document workflow processes"
+                },
+                {
+                  "name": "Download browser extension"
+                },
+                {
+                  "name": "Email authentication tools "
+                },
+                {
+                  "name": "Encrypt more data",
+                  "children": [
+                    {
+                      "name": "Encrypt all cloud-based data"
+                    },
+                    {
+                      "name": "Encrypt data at rest"
+                    },
+                    {
+                      "name": "Encrypt script containing passwords"
+                    },
+                    {
+                      "name": "Generic"
+                    }
+                  ]
+                },
+                {
+                  "name": "Enhance encryption key management"
+                },
+                {
+                  "name": "Implement BIOS password requirement"
+                },
+                {
+                  "name": "Implement HPKP"
+                },
+                {
+                  "name": "Implement ISS"
+                },
+                {
+                  "name": "Implement an IAM system"
+                },
+                {
+                  "name": "Implement and embed MFA"
+                },
+                {
+                  "name": "Implement blacklisting"
+                },
+                {
+                  "name": "Implement internal firewalling",
+                  "children": [
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "PII data firewall"
+                    }
+                  ]
+                },
+                {
+                  "name": "Implement multiple 'layers' defence"
+                },
+                {
+                  "name": "Implement whitelisting"
+                },
+                {
+                  "name": "Install 'unsafe computer'"
+                },
+                {
+                  "name": "Inventory all devices and implement a NOC-SOC"
+                },
+                {
+                  "name": "Obtain certificate authority authorization"
+                },
+                {
+                  "name": "Oversight of development work",
+                  "children": [
+                    {
+                      "name": "Always salt hashes"
+                    },
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Manual code review"
+                    },
+                    {
+                      "name": "Red flag: refusal of code review"
+                    }
+                  ]
+                },
+                {
+                  "name": "Perform asset inventory"
+                },
+                {
+                  "name": "Perform cyber risk assessment",
+                  "children": [
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Perform PII data risk assessment"
+                    }
+                  ]
+                },
+                {
+                  "name": "Perform regular backups"
+                },
+                {
+                  "name": "Periodically check email account settings "
+                },
+                {
+                  "name": "Principle of least privilege",
+                  "children": [
+                    {
+                      "name": "Compartmentalise sensitive data"
+                    },
+                    {
+                      "name": "Develop 'important data' framework"
+                    },
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "High trust/privileged employees"
+                    },
+                    {
+                      "name": "Sensitivity-based permissions"
+                    },
+                    {
+                      "name": "Sensitivity-level document flagging"
+                    },
+                    {
+                      "name": "Understand your data lineage"
+                    }
+                  ]
+                },
+                {
+                  "name": "Secure IoT"
+                },
+                {
+                  "name": "Segregate internet-exposed servers"
+                },
+                {
+                  "name": "Strong credential management",
+                  "children": [
+                    {
+                      "name": "Change default passwords"
+                    },
+                    {
+                      "name": "Credentials not sent over email or stored inappropriately"
+                    },
+                    {
+                      "name": "Customer services have no visibility of credentials"
+                    },
+                    {
+                      "name": "Device unusable until owner creates own PIN/password"
+                    },
+                    {
+                      "name": "Ensure different passwords for different logons"
+                    },
+                    {
+                      "name": "Frequent rotation of privileged credentials"
+                    },
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Immediate access revocation as applicable"
+                    },
+                    {
+                      "name": "Implement single sign-on"
+                    },
+                    {
+                      "name": "Prevent re-use"
+                    },
+                    {
+                      "name": "Protect private keys using a 2FA solution or hardware tokens"
+                    },
+                    {
+                      "name": "Require credentials to access password-laden script"
+                    },
+                    {
+                      "name": "Simulate a phishing-based attack"
+                    },
+                    {
+                      "name": "Social engineering test"
+                    },
+                    {
+                      "name": "Use strong passwords"
+                    }
+                  ]
+                },
+                {
+                  "name": "Use credit-card precautions",
+                  "children": [
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Match credit card expiry dates"
+                    },
+                    {
+                      "name": "Use 3D Secure Technology"
+                    },
+                    {
+                      "name": "Use EVM technology"
+                    }
+                  ]
+                },
+                {
+                  "name": "Use cryptographic segmentation"
+                },
+                {
+                  "name": "Use social media precautions",
+                  "children": [
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Ignore requests from unknown people"
+                    },
+                    {
+                      "name": "Isolate Twitter activity"
+                    },
+                    {
+                      "name": "Use an app for Twitter activity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "React",
+              "children": [
+                {
+                  "name": "Customers asked to install update"
+                },
+                {
+                  "name": "Develop business continuity plan"
+                },
+                {
+                  "name": "Develop incident response plan",
+                  "children": [
+                    {
+                      "name": "Comments section"
+                    },
+                    {
+                      "name": "File complaint to law enforcement"
+                    },
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "Incident response checklists"
+                    },
+                    {
+                      "name": "Incident simulation exercise"
+                    },
+                    {
+                      "name": "Non-email contact all users "
+                    },
+                    {
+                      "name": "Operational incident measurement metrics"
+                    },
+                    {
+                      "name": "Operational incident response metrics"
+                    },
+                    {
+                      "name": "Security clearance"
+                    },
+                    {
+                      "name": "Trial-runs"
+                    }
+                  ]
+                },
+                {
+                  "name": "Implement password change"
+                },
+                {
+                  "name": "Implement password manager",
+                  "children": [
+                    {
+                      "name": "Free access offered"
+                    },
+                    {
+                      "name": "Generic"
+                    }
+                  ]
+                },
+                {
+                  "name": "Implement password reset"
+                },
+                {
+                  "name": "Replace/delete digital tokens"
+                },
+                {
+                  "name": "Report suspicious activity"
+                },
+                {
+                  "name": "SIEM system"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Policies and procedures",
+          "children": [
+            {
+              "name": "Always leave workstation locked"
+            },
+            {
+              "name": "Business travel considerations"
+            },
+            {
+              "name": "External expert review"
+            },
+            {
+              "name": "Generic"
+            },
+            {
+              "name": "Ignore links in breach notification emails"
+            },
+            {
+              "name": "Ignore ‘reset password’ requests in emails"
+            },
+            {
+              "name": "Important files naming conventions"
+            },
+            {
+              "name": "Leave emails in the spam folder"
+            },
+            {
+              "name": "No security policy exceptions"
+            },
+            {
+              "name": "Personal email address not used for work"
+            },
+            {
+              "name": "Understand third parties' methods"
+            },
+            {
+              "name": "Untrusted/unknown source emails"
+            },
+            {
+              "name": "Use work email accounts for work only"
+            },
+            {
+              "name": "Web-based email"
+            }
+          ]
+        },
+        {
+          "name": "Real-time threat intelligence"
+        },
+        {
+          "name": "Security awareness training",
+          "children": [
+            {
+              "name": "Educate about BEC and EAC scams"
+            },
+            {
+              "name": "Email address/domain name anatomy"
+            },
+            {
+              "name": "Generic"
+            },
+            {
+              "name": "Implement computer competency test"
+            },
+            {
+              "name": "Mouse-over skills"
+            },
+            {
+              "name": "SonicWall Phishing IQ Test"
+            },
+            {
+              "name": "Think before you click"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Non-control risk mitigation",
+      "children": [
+        {
+          "name": "Appoint CISO"
+        },
+        {
+          "name": "Appoint compliance officer"
+        },
+        {
+          "name": "Appoint information security manager"
+        },
+        {
+          "name": "Cyber insurance policy"
+        },
+        {
+          "name": "External forensic investigation"
+        },
+        {
+          "name": "Limit remote user access"
+        },
+        {
+          "name": "Proactive security spend"
+        },
+        {
+          "name": "Rebuild new network/server"
+        },
+        {
+          "name": "Red Team established"
+        },
+        {
+          "name": "Remove technical debt"
+        },
+        {
+          "name": "Replace entire computer system"
+        },
+        {
+          "name": "Retirement of legacy systems"
+        },
+        {
+          "name": "Upgrade computer systems"
+        }
+      ]
+    },
+    {
+      "name": "OWASP category",
+      "children": [
+        {
+          "name": "Broken Access Control"
+        },
+        {
+          "name": "Broken Authentication and Session Management"
+        },
+        {
+          "name": "Cross-Site Request Forgery"
+        },
+        {
+          "name": "Cross-Site Scripting"
+        },
+        {
+          "name": "Injection"
+        },
+        {
+          "name": "Insufficient Attack Protection"
+        },
+        {
+          "name": "Known Vulnerabilities"
+        },
+        {
+          "name": "Security Misconfiguration"
+        },
+        {
+          "name": "Sensitive Data Exposure"
+        },
+        {
+          "name": "Under-protected API"
+        }
+      ]
+    },
+    {
+      "name": "Risk Category",
+      "children": [
+        {
+          "name": "Compliance",
+          "children": [
+            {
+              "name": "Compliance"
+            },
+            {
+              "name": "Self-regulation"
+            }
+          ]
+        },
+        {
+          "name": "Exploitation",
+          "children": [
+            {
+              "name": "Exploitation I, II, III & VI"
+            }
+          ]
+        },
+        {
+          "name": "Extortion",
+          "children": [
+            {
+              "name": "Extortion I&II"
+            }
+          ]
+        },
+        {
+          "name": "Operational",
+          "children": [
+            {
+              "name": "Destruction"
+            },
+            {
+              "name": "Disruption"
+            },
+            {
+              "name": "Manipulation "
+            }
+          ]
+        },
+        {
+          "name": "Reputational",
+          "children": [
+            {
+              "name": "Reputational Damage "
+            },
+            {
+              "name": "Violation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Source Material",
+      "children": [
+        {
+          "name": "Company Statement"
+        },
+        {
+          "name": "Legal Commentary/Resources"
+        },
+        {
+          "name": "Mainstream Media Commentary"
+        },
+        {
+          "name": "Regulatory Commentary"
+        },
+        {
+          "name": "Security Commentary"
+        },
+        {
+          "name": "Third Party Company Statement"
+        }
+      ]
+    },
+    {
+      "name": "Systems and Tech Failures",
+      "children": [
+        {
+          "name": "Hardware"
+        },
+        {
+          "name": "Software"
+        },
+        {
+          "name": "Systems"
+        }
+      ]
+    },
+    {
+      "name": "TTPs",
+      "children": [
+        {
+          "name": "2FA SMS intercept"
+        },
+        {
+          "name": "51% / Majority"
+        },
+        {
+          "name": "ATM or POS compromise"
+        },
+        {
+          "name": "Backdoor inserted in development"
+        },
+        {
+          "name": "Baiting"
+        },
+        {
+          "name": "Blue-chip hacking"
+        },
+        {
+          "name": "Compromised connected third party"
+        },
+        {
+          "name": "Compromised insider attack"
+        },
+        {
+          "name": "Cryptojacking"
+        },
+        {
+          "name": "Cyber bank robbery"
+        },
+        {
+          "name": "DNS redirect"
+        },
+        {
+          "name": "Denial of Service",
+          "children": [
+            {
+              "name": "Generic"
+            },
+            {
+              "name": "Ransom-related DDoS (RDDoS)"
+            }
+          ]
+        },
+        {
+          "name": "Digital",
+          "children": [
+            {
+              "name": "Credential stuffing"
+            },
+            {
+              "name": "Device Leave Behind"
+            },
+            {
+              "name": "Email spoofing"
+            },
+            {
+              "name": "Malware",
+              "children": [
+                {
+                  "name": "Adware"
+                },
+                {
+                  "name": "Backdoor"
+                },
+                {
+                  "name": "Generic/Unspecified"
+                },
+                {
+                  "name": "Malware deployed",
+                  "children": [
+                    {
+                      "name": "Amnesia 3"
+                    },
+                    {
+                      "name": "BitPaymer"
+                    },
+                    {
+                      "name": "CryptoLocker"
+                    },
+                    {
+                      "name": "Dridex"
+                    },
+                    {
+                      "name": "Dtrack"
+                    },
+                    {
+                      "name": "Emotet"
+                    },
+                    {
+                      "name": "Judy"
+                    },
+                    {
+                      "name": "KillMBR"
+                    },
+                    {
+                      "name": "Kovter"
+                    },
+                    {
+                      "name": "LockerGoga"
+                    },
+                    {
+                      "name": "Locky"
+                    },
+                    {
+                      "name": "NotPetya"
+                    },
+                    {
+                      "name": "Petya"
+                    },
+                    {
+                      "name": "PlugX"
+                    },
+                    {
+                      "name": "Poison Ivy"
+                    },
+                    {
+                      "name": "Regin"
+                    },
+                    {
+                      "name": "Robbinhood"
+                    },
+                    {
+                      "name": "Ryuk"
+                    },
+                    {
+                      "name": "SamSam"
+                    },
+                    {
+                      "name": "Shamoon"
+                    },
+                    {
+                      "name": "Winnti"
+                    }
+                  ]
+                },
+                {
+                  "name": "Ransomware",
+                  "children": [
+                    {
+                      "name": "Avaddon"
+                    },
+                    {
+                      "name": "Babuk Locker"
+                    },
+                    {
+                      "name": "Blackmatter"
+                    },
+                    {
+                      "name": "Clop"
+                    },
+                    {
+                      "name": "Conti"
+                    },
+                    {
+                      "name": "CrySIS"
+                    },
+                    {
+                      "name": "Defray"
+                    },
+                    {
+                      "name": "Dharma"
+                    },
+                    {
+                      "name": "DoppelPaymer"
+                    },
+                    {
+                      "name": "Egregor"
+                    },
+                    {
+                      "name": "Generic"
+                    },
+                    {
+                      "name": "LockBit 2.0"
+                    },
+                    {
+                      "name": "Lockbit"
+                    },
+                    {
+                      "name": "Mailto"
+                    },
+                    {
+                      "name": "Maze"
+                    },
+                    {
+                      "name": "MegaCortex"
+                    },
+                    {
+                      "name": "NetWalker"
+                    },
+                    {
+                      "name": "REvil"
+                    },
+                    {
+                      "name": "Ragnar Locker"
+                    },
+                    {
+                      "name": "SNAKE"
+                    },
+                    {
+                      "name": "Sodinokibi"
+                    },
+                    {
+                      "name": "SunCrypt"
+                    },
+                    {
+                      "name": "WannaCry"
+                    },
+                    {
+                      "name": "WastedLocker"
+                    }
+                  ]
+                },
+                {
+                  "name": "Spyware"
+                },
+                {
+                  "name": "Trojan"
+                },
+                {
+                  "name": "Virus"
+                },
+                {
+                  "name": "Worms"
+                }
+              ]
+            },
+            {
+              "name": "Phishing",
+              "children": [
+                {
+                  "name": "BEC/EAC or CEO scam"
+                },
+                {
+                  "name": "Deceptive"
+                },
+                {
+                  "name": "Dropbox"
+                },
+                {
+                  "name": "Employee impersonation"
+                },
+                {
+                  "name": "Generic"
+                },
+                {
+                  "name": "MITM"
+                },
+                {
+                  "name": "Password Reset Attack"
+                },
+                {
+                  "name": "Social media"
+                },
+                {
+                  "name": "Spearphishing"
+                }
+              ]
+            },
+            {
+              "name": "Pretexting"
+            },
+            {
+              "name": "Website Spoofing"
+            }
+          ]
+        },
+        {
+          "name": "Double-spending"
+        },
+        {
+          "name": "Forged cookies"
+        },
+        {
+          "name": "Formjacking"
+        },
+        {
+          "name": "In-Person",
+          "children": [
+            {
+              "name": "Open Access Employee"
+            },
+            {
+              "name": "Rogue Employee"
+            },
+            {
+              "name": "Suspected employee involvement"
+            }
+          ]
+        },
+        {
+          "name": "Island-hopping",
+          "children": [
+            {
+              "name": "Network island-hopping"
+            },
+            {
+              "name": "Website converted into 'watering hole'"
+            }
+          ]
+        },
+        {
+          "name": "Known vulnerability exploited",
+          "children": [
+            {
+              "name": "Buffer-overflow"
+            },
+            {
+              "name": "EternalBlue"
+            },
+            {
+              "name": "FG-IR-18-384/CVE-2018-13379"
+            },
+            {
+              "name": "Generic"
+            },
+            {
+              "name": "Heartbleed"
+            },
+            {
+              "name": "Sentry MBA"
+            }
+          ]
+        },
+        {
+          "name": "Logic bomb"
+        },
+        {
+          "name": "Magecart attack"
+        },
+        {
+          "name": "Meow cyber attack"
+        },
+        {
+          "name": "Online piracy"
+        },
+        {
+          "name": "Phone",
+          "children": [
+            {
+              "name": "Impersonation"
+            },
+            {
+              "name": "Vishing (voice phishing)"
+            },
+            {
+              "name": "Voice biometrics spoof"
+            },
+            {
+              "name": "Voicemail 'hacking'"
+            }
+          ]
+        },
+        {
+          "name": "Remote storage device"
+        },
+        {
+          "name": "Reverse social engineering means"
+        },
+        {
+          "name": "Sim swap scam"
+        },
+        {
+          "name": "Social engineering means "
+        },
+        {
+          "name": "Supply chain attack"
+        },
+        {
+          "name": "Zero day exploit"
+        },
+        {
+          "name": "Zoom bombing"
+        }
+      ]
+    },
+    {
+      "name": "Uncovered by",
+      "children": [
+        {
+          "name": "Customer",
+          "children": [
+            {
+              "name": "Generic"
+            }
+          ]
+        },
+        {
+          "name": "Employee",
+          "children": [
+            {
+              "name": "CEO"
+            },
+            {
+              "name": "Engineering team"
+            },
+            {
+              "name": "Generic"
+            },
+            {
+              "name": "Internal audit"
+            },
+            {
+              "name": "Security team",
+              "children": [
+                {
+                  "name": "CISO"
+                },
+                {
+                  "name": "Penetration testing"
+                },
+                {
+                  "name": "Routine checks"
+                },
+                {
+                  "name": "Suspicious traffic/code identified"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Third Party",
+          "children": [
+            {
+              "name": "Attacker tip-off"
+            },
+            {
+              "name": "Connected service provider"
+            },
+            {
+              "name": "Contractor"
+            },
+            {
+              "name": "External audit"
+            },
+            {
+              "name": "Generic"
+            },
+            {
+              "name": "Journalist"
+            },
+            {
+              "name": "Law enforcement agency"
+            },
+            {
+              "name": "Regulatory / Supervisory Visit"
+            },
+            {
+              "name": "Researcher"
+            },
+            {
+              "name": "Security firm automated software"
+            },
+            {
+              "name": "Unconnected service provider"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

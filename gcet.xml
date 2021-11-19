@@ -1,0 +1,3100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taxonomy>
+  <name>GCET</name>
+  <children type="array">
+    <child>
+      <name>Additional context</name>
+      <children type="array">
+        <child>
+          <name>Attacked during non-standard working hours</name>
+        </child>
+        <child>
+          <name>Attacker unknown to industry oversight body</name>
+        </child>
+        <child>
+          <name>Company diversifying</name>
+        </child>
+        <child>
+          <name>Economic conditions</name>
+          <children type="array">
+            <child>
+              <name>Stable</name>
+            </child>
+            <child>
+              <name>Volatile</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Key executives leaving/joining</name>
+        </child>
+        <child>
+          <name>Limited resource pool</name>
+        </child>
+        <child>
+          <name>National holiday</name>
+        </child>
+        <child>
+          <name>New ownership</name>
+        </child>
+        <child>
+          <name>Organisational disruption</name>
+        </child>
+        <child>
+          <name>Political upheaval</name>
+        </child>
+        <child>
+          <name>Public holiday/Weekend/Vacation</name>
+        </child>
+        <child>
+          <name>Questionable business model</name>
+        </child>
+        <child>
+          <name>Systems re-engineering</name>
+        </child>
+        <child>
+          <name>Victim company growth</name>
+          <children type="array">
+            <child>
+              <name>Growth through acquisition</name>
+            </child>
+            <child>
+              <name>Growth through mergers</name>
+            </child>
+            <child>
+              <name>Rapid growth</name>
+            </child>
+          </children>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>Event motivation</name>
+      <children type="array">
+        <child>
+          <name>'Red Team' Test</name>
+        </child>
+        <child>
+          <name>Alert victim to security issues</name>
+        </child>
+        <child>
+          <name>Business Disruption</name>
+        </child>
+        <child>
+          <name>Contact spamming</name>
+        </child>
+        <child>
+          <name>Cyber Espionage</name>
+        </child>
+        <child>
+          <name>Financial gains</name>
+        </child>
+        <child>
+          <name>Financial gains (indirect)</name>
+        </child>
+        <child>
+          <name>Hacktivism</name>
+        </child>
+        <child>
+          <name>Identity Theft</name>
+        </child>
+        <child>
+          <name>Intellectual property theft</name>
+        </child>
+        <child>
+          <name>Mischief-making</name>
+        </child>
+        <child>
+          <name>Ransom</name>
+        </child>
+        <child>
+          <name>Societal Disruption</name>
+        </child>
+        <child>
+          <name>State-sponsored</name>
+        </child>
+        <child>
+          <name>Terror</name>
+        </child>
+        <child>
+          <name>Use victim's processing power</name>
+        </child>
+        <child>
+          <name>Vengeance</name>
+        </child>
+        <child>
+          <name>War</name>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>Exacerbated by</name>
+      <children type="array">
+        <child>
+          <name>Automated security tool over-reliance</name>
+        </child>
+        <child>
+          <name>Corporate Governance Issues</name>
+        </child>
+        <child>
+          <name>Customer Actions/Inactions</name>
+        </child>
+        <child>
+          <name>Employee Actions/Inactions</name>
+        </child>
+        <child>
+          <name>Employee conflicted</name>
+        </child>
+        <child>
+          <name>Exceptions to standard security approach</name>
+        </child>
+        <child>
+          <name>Improper senior management practices</name>
+        </child>
+        <child>
+          <name>Inadequate monitoring practices</name>
+        </child>
+        <child>
+          <name>Inadequate technology planning</name>
+        </child>
+        <child>
+          <name>Internal controls lacking</name>
+        </child>
+        <child>
+          <name>Lacking escalation</name>
+        </child>
+        <child>
+          <name>Missed signals</name>
+        </child>
+        <child>
+          <name>New markets/products</name>
+        </child>
+        <child>
+          <name>Non-compliance</name>
+        </child>
+        <child>
+          <name>Organisational gaps</name>
+        </child>
+        <child>
+          <name>Poor Judgement</name>
+        </child>
+        <child>
+          <name>Poor decisions</name>
+        </child>
+        <child>
+          <name>Poor documentation</name>
+        </child>
+        <child>
+          <name>Poor execution</name>
+        </child>
+        <child>
+          <name>Slow responses</name>
+        </child>
+        <child>
+          <name>Strategic Flaw</name>
+        </child>
+        <child>
+          <name>Stretched resources</name>
+        </child>
+        <child>
+          <name>Unclear reporting structure</name>
+        </child>
+        <child>
+          <name>Underestimation of event's seriousness</name>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>External events</name>
+      <children type="array">
+        <child>
+          <name>Business issues</name>
+        </child>
+        <child>
+          <name>Disasters</name>
+        </child>
+        <child>
+          <name>Legal issues</name>
+        </child>
+        <child>
+          <name>Service dependencies</name>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>Failed Internal Processes</name>
+      <children type="array">
+        <child>
+          <name>Process controls</name>
+        </child>
+        <child>
+          <name>Process design or execution</name>
+        </child>
+        <child>
+          <name>Supporting processes</name>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>Human behaviour factor</name>
+      <children type="array">
+        <child>
+          <name>Caught user off-guard</name>
+          <children type="array">
+            <child>
+              <name>Lacking diligence/vigilance</name>
+            </child>
+            <child>
+              <name>Threats</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Emotion targeted</name>
+          <children type="array">
+            <child>
+              <name>Curiosity</name>
+            </child>
+            <child>
+              <name>Desire</name>
+            </child>
+            <child>
+              <name>Duty</name>
+            </child>
+            <child>
+              <name>Fear</name>
+            </child>
+            <child>
+              <name>Greed</name>
+            </child>
+            <child>
+              <name>Laziness</name>
+            </child>
+            <child>
+              <name>Trust</name>
+            </child>
+            <child>
+              <name>Urgency</name>
+            </child>
+          </children>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>Human targeted</name>
+      <children type="array">
+        <child>
+          <name>Customer</name>
+          <children type="array">
+            <child>
+              <name>Deliberate</name>
+            </child>
+            <child>
+              <name>Disbelief</name>
+            </child>
+            <child>
+              <name>Inaction</name>
+            </child>
+            <child>
+              <name>Inadvertent</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Leaving employee</name>
+          <children type="array">
+            <child>
+              <name>Deliberate</name>
+            </child>
+            <child>
+              <name>Disbelief</name>
+            </child>
+            <child>
+              <name>Inaction</name>
+            </child>
+            <child>
+              <name>Inadvertent </name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Non-senior employee</name>
+          <children type="array">
+            <child>
+              <name>Deliberate</name>
+            </child>
+            <child>
+              <name>Disbelief</name>
+            </child>
+            <child>
+              <name>Inaction</name>
+            </child>
+            <child>
+              <name>Inadvertent</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Senior employee</name>
+          <children type="array">
+            <child>
+              <name>Deliberate</name>
+            </child>
+            <child>
+              <name>Disbelief </name>
+            </child>
+            <child>
+              <name>Inaction</name>
+            </child>
+            <child>
+              <name>Inadvertent </name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Third party</name>
+          <children type="array">
+            <child>
+              <name>Deliberate</name>
+            </child>
+            <child>
+              <name>Disbelief</name>
+            </child>
+            <child>
+              <name>Inaction</name>
+            </child>
+            <child>
+              <name>Inadvertent </name>
+            </child>
+          </children>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>ICT risk category</name>
+      <children type="array">
+        <child>
+          <name>Availability and Continuity</name>
+          <children type="array">
+            <child>
+              <name>Disruptive and destructive</name>
+            </child>
+            <child>
+              <name>Generic</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Change</name>
+          <children type="array">
+            <child>
+              <name>Generic</name>
+            </child>
+            <child>
+              <name>Inadequate change control</name>
+              <children type="array">
+                <child>
+                  <name>Generic</name>
+                </child>
+                <child>
+                  <name>Ill-secured systems/applications released</name>
+                </child>
+                <child>
+                  <name>Inadequate test environment</name>
+                </child>
+                <child>
+                  <name>Insufficiently tested software/configuration changes</name>
+                </child>
+                <child>
+                  <name>Internally developed software</name>
+                </child>
+                <child>
+                  <name>Uncontrolled changes in production</name>
+                </child>
+                <child>
+                  <name>Undetected errors or vulnerabilities</name>
+                </child>
+              </children>
+            </child>
+            <child>
+              <name>Inadequate lifecycle management</name>
+              <children type="array">
+                <child>
+                  <name>Missed patching</name>
+                  <children type="array">
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Unpatched/outdated systems</name>
+                    </child>
+                  </children>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Data Integrity</name>
+          <children type="array">
+            <child>
+              <name>Generic</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Outsourcing</name>
+          <children type="array">
+            <child>
+              <name>Generic</name>
+            </child>
+            <child>
+              <name>Inadequate governance</name>
+              <children type="array">
+                <child>
+                  <name>Lacking skills and capabilities</name>
+                </child>
+              </children>
+            </child>
+            <child>
+              <name>Inadequate third party security</name>
+              <children type="array">
+                <child>
+                  <name>Unauthorised access</name>
+                  <children type="array">
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Malicious insiders steal/sell data</name>
+                    </child>
+                    <child>
+                      <name>Targeted to access victim’s systems/data</name>
+                    </child>
+                  </children>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Security</name>
+          <children type="array">
+            <child>
+              <name>External cyber/ICT attacks</name>
+              <children type="array">
+                <child>
+                  <name>Attacks collecting data/committing fraud</name>
+                  <children type="array">
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Unprotected authentication data intercept</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Circumvent security for fraudulent securities transactions</name>
+                  <children type="array">
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Pump and dump attack</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Internal systems takeover</name>
+                  <children type="array">
+                    <child>
+                      <name>APT</name>
+                    </child>
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Malware encrypts data</name>
+                    </child>
+                    <child>
+                      <name>Trojan horses infection</name>
+                    </child>
+                    <child>
+                      <name>Vulnerability exploited</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Vulnerability exploited for fraudulent payments</name>
+                  <children type="array">
+                    <child>
+                      <name>Fraudulent transaction from within</name>
+                    </child>
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Unauthorised (e-banking) transaction</name>
+                    </child>
+                  </children>
+                </child>
+              </children>
+            </child>
+            <child>
+              <name>Generic</name>
+            </child>
+            <child>
+              <name>Inadequate internal security</name>
+              <children type="array">
+                <child>
+                  <name>Employees not following P&amp;Ps</name>
+                  <children type="array">
+                    <child>
+                      <name>Bad password practices</name>
+                    </child>
+                    <child>
+                      <name>Employees tricked into assisting</name>
+                    </child>
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Storing unencrypted data on portable devices</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Inadequate access management</name>
+                  <children type="array">
+                    <child>
+                      <name>Excessive access rights/privileges</name>
+                    </child>
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Redundant accounts not disabled/deleted </name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Unauthorised access from within</name>
+                  <children type="array">
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Install key-stroke loggers</name>
+                    </child>
+                    <child>
+                      <name>Sysadmin modifies database</name>
+                    </child>
+                    <child>
+                      <name>Weak password practices</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Unauthorised data storage/transfer</name>
+                  <children type="array">
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Information stolen or leaked</name>
+                    </child>
+                  </children>
+                </child>
+              </children>
+            </child>
+            <child>
+              <name>Inadequate physical security</name>
+              <children type="array">
+                <child>
+                  <name>Assets/data damaged/lost</name>
+                  <children type="array">
+                    <child>
+                      <name>Assets stolen or data copied</name>
+                    </child>
+                  </children>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>Impact Type</name>
+      <children type="array">
+        <child>
+          <name>Availability</name>
+          <children type="array">
+            <child>
+              <name>Critical business processes disrupted</name>
+            </child>
+            <child>
+              <name>Non-critical business processes disrupted</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Data</name>
+          <children type="array">
+            <child>
+              <name>Data Accessed</name>
+              <children type="array">
+                <child>
+                  <name>Generic</name>
+                </child>
+                <child>
+                  <name>Unauthorised parties viewed confidential information</name>
+                </child>
+              </children>
+            </child>
+            <child>
+              <name>Data Loss</name>
+              <children type="array">
+                <child>
+                  <name>Accidental overwriting or deletion</name>
+                </child>
+                <child>
+                  <name>Deliberate overwriting or deletion</name>
+                </child>
+                <child>
+                  <name>Generic</name>
+                </child>
+                <child>
+                  <name>System failure</name>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Financial Loss/Fraud</name>
+          <children type="array">
+            <child>
+              <name>Generic</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Governance Issue</name>
+          <children type="array">
+            <child>
+              <name>Contractual requirements not met</name>
+            </child>
+            <child>
+              <name>Data custodianship lacking</name>
+            </child>
+            <child>
+              <name>Incident management</name>
+            </child>
+            <child>
+              <name>Non-compliance</name>
+            </child>
+            <child>
+              <name>Obligations not met</name>
+            </child>
+            <child>
+              <name>Poor cyber examples</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Systems breached</name>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>Industry</name>
+      <children type="array">
+        <child>
+          <name>Arts</name>
+        </child>
+        <child>
+          <name>Automobiles</name>
+        </child>
+        <child>
+          <name>Banking services</name>
+        </child>
+        <child>
+          <name>Capital Goods</name>
+        </child>
+        <child>
+          <name>Commercial &amp; Professional Services</name>
+        </child>
+        <child>
+          <name>Construction</name>
+        </child>
+        <child>
+          <name>Consumer Durables &amp; Apparel</name>
+        </child>
+        <child>
+          <name>Consumer Services</name>
+        </child>
+        <child>
+          <name>Diversified Financials</name>
+        </child>
+        <child>
+          <name>Education</name>
+        </child>
+        <child>
+          <name>Energy</name>
+        </child>
+        <child>
+          <name>Food, Beverage &amp; Tobacco</name>
+        </child>
+        <child>
+          <name>Healthcare</name>
+        </child>
+        <child>
+          <name>Household Products</name>
+        </child>
+        <child>
+          <name>Insurance</name>
+        </child>
+        <child>
+          <name>Manufacturing</name>
+        </child>
+        <child>
+          <name>Materials</name>
+        </child>
+        <child>
+          <name>Media</name>
+        </child>
+        <child>
+          <name>Military</name>
+        </child>
+        <child>
+          <name>Nonprofit</name>
+        </child>
+        <child>
+          <name>Pharmaceuticals &amp; Biotechnology</name>
+        </child>
+        <child>
+          <name>Political/Government</name>
+        </child>
+        <child>
+          <name>Professional sports</name>
+        </child>
+        <child>
+          <name>Real Estate</name>
+        </child>
+        <child>
+          <name>Regulator</name>
+        </child>
+        <child>
+          <name>Retailing</name>
+        </child>
+        <child>
+          <name>Semiconductors</name>
+        </child>
+        <child>
+          <name>Software</name>
+        </child>
+        <child>
+          <name>Technology Hardware</name>
+        </child>
+        <child>
+          <name>Telecomms</name>
+        </child>
+        <child>
+          <name>Transportation</name>
+        </child>
+        <child>
+          <name>Utilities</name>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>Key facts</name>
+      <children type="array">
+        <child>
+          <name>Alerted by whistleblower</name>
+        </child>
+        <child>
+          <name>Attack successfully defended against</name>
+        </child>
+        <child>
+          <name>Attackers used delaying tactics</name>
+        </child>
+        <child>
+          <name>Bounty paid</name>
+        </child>
+        <child>
+          <name>Breached after third party intrusion</name>
+        </child>
+        <child>
+          <name>CEO fired! resigned!</name>
+        </child>
+        <child>
+          <name>Cease processing order served</name>
+        </child>
+        <child>
+          <name>Central bank cyber unit created after event</name>
+        </child>
+        <child>
+          <name>Company 'cried wolf'</name>
+        </child>
+        <child>
+          <name>Company executives were fined</name>
+        </child>
+        <child>
+          <name>Company statement</name>
+          <children type="array">
+            <child>
+              <name>Attributes</name>
+              <children type="array">
+                <child>
+                  <name>CEO video message</name>
+                </child>
+                <child>
+                  <name>Comments section</name>
+                </child>
+                <child>
+                  <name>Dedicated cyber incident page</name>
+                </child>
+                <child>
+                  <name>Event diagram</name>
+                </child>
+                <child>
+                  <name>Eyewitness account</name>
+                </child>
+              </children>
+            </child>
+            <child>
+              <name>Events</name>
+              <children type="array">
+                <child>
+                  <name>2nd statement issued</name>
+                </child>
+                <child>
+                  <name>No longer public</name>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Complimentary password manager access</name>
+        </child>
+        <child>
+          <name>Customers offered "lifelong protection"</name>
+        </child>
+        <child>
+          <name>Customers suffered fraud</name>
+        </child>
+        <child>
+          <name>Cyber insurance elevated *after* incident</name>
+        </child>
+        <child>
+          <name>Cyber insurance elevated *before* incident</name>
+        </child>
+        <child>
+          <name>Cyber near miss</name>
+        </child>
+        <child>
+          <name>Death caused by cyber attack</name>
+        </child>
+        <child>
+          <name>Distraction techniques deployed</name>
+        </child>
+        <child>
+          <name>Encryption used</name>
+          <children type="array">
+            <child>
+              <name>MD5</name>
+            </child>
+            <child>
+              <name>SHA-1</name>
+            </child>
+            <child>
+              <name>bcrypt</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Event coverage</name>
+          <children type="array">
+            <child>
+              <name>Criticised cyber defences</name>
+            </child>
+            <child>
+              <name>Criticised incident response</name>
+            </child>
+            <child>
+              <name>Praised incident response</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Event not publicly disclosed</name>
+        </child>
+        <child>
+          <name>Experts engaged after read-across events</name>
+        </child>
+        <child>
+          <name>Fate of employee involved</name>
+          <children type="array">
+            <child>
+              <name>Arrested/convicted</name>
+            </child>
+            <child>
+              <name>Fired</name>
+            </child>
+            <child>
+              <name>Resigned</name>
+            </child>
+            <child>
+              <name>Suspended</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Game-changer event</name>
+        </child>
+        <child>
+          <name>Gray Rhino</name>
+        </child>
+        <child>
+          <name>Group</name>
+          <children type="array">
+            <child>
+              <name>ALTDOS</name>
+            </child>
+            <child>
+              <name>APT 18</name>
+            </child>
+            <child>
+              <name>APT 31</name>
+            </child>
+            <child>
+              <name>Anonymous</name>
+            </child>
+            <child>
+              <name>Avaddon</name>
+            </child>
+            <child>
+              <name>AvosLocker</name>
+            </child>
+            <child>
+              <name>Axiom</name>
+            </child>
+            <child>
+              <name>Babuk</name>
+            </child>
+            <child>
+              <name>Black Shadow </name>
+            </child>
+            <child>
+              <name>Blue Termite</name>
+            </child>
+            <child>
+              <name>Calypso APT</name>
+            </child>
+            <child>
+              <name>Cleaver</name>
+            </child>
+            <child>
+              <name>Cobalt Dickens</name>
+            </child>
+            <child>
+              <name>Conti</name>
+            </child>
+            <child>
+              <name>Cozy Bear / APT 29 / Nobelium / The Dukes</name>
+            </child>
+            <child>
+              <name>Crackas with Attitude</name>
+            </child>
+            <child>
+              <name>Cutting Sword of Justice</name>
+            </child>
+            <child>
+              <name>Darkside</name>
+            </child>
+            <child>
+              <name>Deep Panda</name>
+            </child>
+            <child>
+              <name>Desorden</name>
+            </child>
+            <child>
+              <name>DoppelPaymer / Grief</name>
+            </child>
+            <child>
+              <name>Evil Corp</name>
+            </child>
+            <child>
+              <name>Fancy Bear / APT 28 / Tsar Team</name>
+            </child>
+            <child>
+              <name>Fin7 / Carbanak / Navigator / JokerStash</name>
+            </child>
+            <child>
+              <name>Gnosticplayers</name>
+            </child>
+            <child>
+              <name>Hades</name>
+            </child>
+            <child>
+              <name>Hafnium</name>
+            </child>
+            <child>
+              <name>HelloKitty</name>
+            </child>
+            <child>
+              <name>Hive</name>
+            </child>
+            <child>
+              <name>Indra</name>
+            </child>
+            <child>
+              <name>Kimsuky</name>
+            </child>
+            <child>
+              <name>KovCoreG</name>
+            </child>
+            <child>
+              <name>Lazarus / Guardians of Peace / Whois Team</name>
+            </child>
+            <child>
+              <name>Lockean</name>
+            </child>
+            <child>
+              <name>LulzSec</name>
+            </child>
+            <child>
+              <name>Magecart</name>
+            </child>
+            <child>
+              <name>Marketo</name>
+            </child>
+            <child>
+              <name>MoneyTaker</name>
+            </child>
+            <child>
+              <name>N3tw0rm</name>
+            </child>
+            <child>
+              <name>NSO Group</name>
+            </child>
+            <child>
+              <name>Nefilim</name>
+            </child>
+            <child>
+              <name>NetWalker</name>
+            </child>
+            <child>
+              <name>Odinaff</name>
+            </child>
+            <child>
+              <name>PLA Unit 61398 / APT 1</name>
+            </child>
+            <child>
+              <name>Ragnarok</name>
+            </child>
+            <child>
+              <name>RansomEXX</name>
+            </child>
+            <child>
+              <name>RedFoxtrot</name>
+            </child>
+            <child>
+              <name>Sandworm / Unit 74455</name>
+            </child>
+            <child>
+              <name>Shadow Kill Hackers</name>
+            </child>
+            <child>
+              <name>ShinyHunters</name>
+            </child>
+            <child>
+              <name>Silence</name>
+            </child>
+            <child>
+              <name>Syrian Electronic Army</name>
+            </child>
+            <child>
+              <name>TA505</name>
+            </child>
+            <child>
+              <name>The Dark Overlord / TDO</name>
+            </child>
+            <child>
+              <name>The Impact Team</name>
+            </child>
+            <child>
+              <name>Vice Society</name>
+            </child>
+            <child>
+              <name>Whitefly</name>
+            </child>
+            <child>
+              <name>Winnti Group / Wicked Panda / Blackfly</name>
+            </child>
+            <child>
+              <name>Wizard Spider</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Hacker's customer services' level shown</name>
+        </child>
+        <child>
+          <name>Hacker/Attacker jailed</name>
+        </child>
+        <child>
+          <name>Hacking back demonstrated</name>
+        </child>
+        <child>
+          <name>Individuals</name>
+          <children type="array">
+            <child>
+              <name>Albert Gonzalez</name>
+            </child>
+            <child>
+              <name>Connor Allsopp</name>
+            </child>
+            <child>
+              <name>Courvoisier/Grant West</name>
+            </child>
+            <child>
+              <name>Gnosticplayers</name>
+            </child>
+            <child>
+              <name>IShAkDz</name>
+            </child>
+            <child>
+              <name>Lifelock</name>
+            </child>
+            <child>
+              <name>Mak Man</name>
+            </child>
+            <child>
+              <name>Matthew Hanley</name>
+            </child>
+            <child>
+              <name>Mr Smith</name>
+            </child>
+            <child>
+              <name>MrRabotnik</name>
+            </child>
+            <child>
+              <name>Nik Cubrilovic</name>
+            </child>
+            <child>
+              <name>Peace</name>
+            </child>
+            <child>
+              <name>Phineas Fisher</name>
+            </child>
+            <child>
+              <name>Revolver / 1x0123</name>
+            </child>
+            <child>
+              <name>Ruslan Bondars</name>
+            </child>
+            <child>
+              <name>Sven Jaschan</name>
+            </child>
+            <child>
+              <name>Yevgeniy Nikulin</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Law enforcement employed hacker</name>
+        </child>
+        <child>
+          <name>Logic bomb implantation possible</name>
+        </child>
+        <child>
+          <name>No customer or partner service impact</name>
+        </child>
+        <child>
+          <name>No. of cybersecurity staff disclosed</name>
+        </child>
+        <child>
+          <name>Non-employee discovered breach</name>
+        </child>
+        <child>
+          <name>Personally Identifiable Information</name>
+          <children type="array">
+            <child>
+              <name>PII impacted</name>
+            </child>
+            <child>
+              <name>PII not impacted</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Political figures' data exposed</name>
+        </child>
+        <child>
+          <name>Ransom demanded was not paid</name>
+        </child>
+        <child>
+          <name>Ransom demanded was paid</name>
+        </child>
+        <child>
+          <name>Researcher made findings public before victim informed</name>
+        </child>
+        <child>
+          <name>Security researcher's findings disputed</name>
+        </child>
+        <child>
+          <name>Share price impact</name>
+        </child>
+        <child>
+          <name>Shares suspended from trading</name>
+        </child>
+        <child>
+          <name>Specific cyber insurance policy</name>
+        </child>
+        <child>
+          <name>Stakeholders' event perception</name>
+          <children type="array">
+            <child>
+              <name>Despair</name>
+            </child>
+            <child>
+              <name>Satisfied</name>
+            </child>
+            <child>
+              <name>Satisfied (delayed info share)</name>
+            </child>
+            <child>
+              <name>Satisfied (delayed response)</name>
+            </child>
+            <child>
+              <name>Suspicious</name>
+            </child>
+            <child>
+              <name>Unhappy</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>State-sponsored attack</name>
+        </child>
+        <child>
+          <name>Third-party arrangement ceased</name>
+        </child>
+        <child>
+          <name>Undetectable malware</name>
+        </child>
+        <child>
+          <name>Victim employed hacker</name>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>Key statistics</name>
+      <children type="array">
+        <child>
+          <name>Event resolution</name>
+          <children type="array">
+            <child>
+              <name>Quicker than average (malicious insider)</name>
+            </child>
+            <child>
+              <name>Quicker than average (ransomware)</name>
+            </child>
+            <child>
+              <name>Slower than average (malicious insider)</name>
+            </child>
+            <child>
+              <name>Slower than average (ransomware)</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Immediate costs</name>
+        </child>
+        <child>
+          <name>Slow-burn costs</name>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>Lessons learnt</name>
+      <children type="array">
+        <child>
+          <name>Accountability and governance can't be outsourced</name>
+        </child>
+        <child>
+          <name>Actions speak louder than words</name>
+        </child>
+        <child>
+          <name>Availability of low-cost attack tools</name>
+          <children type="array">
+            <child>
+              <name>Cyber criminals focus</name>
+            </child>
+            <child>
+              <name>Generic</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Bad security habits persist when no-one speaks up</name>
+        </child>
+        <child>
+          <name>Be aware of employees’ internet activities</name>
+        </child>
+        <child>
+          <name>Benefit of a written cyber incident response plan</name>
+        </child>
+        <child>
+          <name>Beware imperious management styles of IT/security</name>
+        </child>
+        <child>
+          <name>Beware the untouchable employee</name>
+        </child>
+        <child>
+          <name>Breach confessed too late for damage limitation</name>
+        </child>
+        <child>
+          <name>CEO fired! resigned!</name>
+        </child>
+        <child>
+          <name>Companies should consider why hacktivists may target them</name>
+        </child>
+        <child>
+          <name>Complete and comprehensible cyber risk reporting</name>
+        </child>
+        <child>
+          <name>Compliance with regulations does not mean security</name>
+        </child>
+        <child>
+          <name>Cyber control strategy includes preventative and detective controls</name>
+        </child>
+        <child>
+          <name>Cyber criminals are well funded</name>
+        </child>
+        <child>
+          <name>Cyber events are not just IT issues!</name>
+        </child>
+        <child>
+          <name>Cyber security includes the 'hard side' and the 'soft side'</name>
+        </child>
+        <child>
+          <name>Cyber security means empowering staff</name>
+        </child>
+        <child>
+          <name>Cyber threats represent a multi-competency problem</name>
+        </child>
+        <child>
+          <name>Cyber tone from the top can be below standard</name>
+        </child>
+        <child>
+          <name>Cybersecurity isn’t just about computers</name>
+        </child>
+        <child>
+          <name>Damages paid but no actual harm proven</name>
+        </child>
+        <child>
+          <name>Deleted data can be recovered</name>
+        </child>
+        <child>
+          <name>Demonstrates the need for high-reliability organisations</name>
+        </child>
+        <child>
+          <name>Deploy global best practices</name>
+        </child>
+        <child>
+          <name>Do not employ inexplicable cyber risk strategies</name>
+        </child>
+        <child>
+          <name>Dr. Guishan Rai is India's first CISO</name>
+        </child>
+        <child>
+          <name>Early detection enables immediate countermeasures</name>
+        </child>
+        <child>
+          <name>Evaluate many intelligence sources</name>
+        </child>
+        <child>
+          <name>Event cover up can make matters worse</name>
+        </child>
+        <child>
+          <name>Fighting APTs requires a robust program and the right tech</name>
+        </child>
+        <child>
+          <name>Hackers are organised and professional</name>
+        </child>
+        <child>
+          <name>Hackers steal CVV2 codes before encryption with malware </name>
+        </child>
+        <child>
+          <name>Immediately report incident and take proper response steps</name>
+        </child>
+        <child>
+          <name>Immediately report unauthorised charges to card issuers</name>
+        </child>
+        <child>
+          <name>Importance of robust breach detection and/or response capability</name>
+          <children type="array">
+            <child>
+              <name>Robust breach detection</name>
+            </child>
+            <child>
+              <name>Robust breach detection and response</name>
+            </child>
+            <child>
+              <name>Robust response capability</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Improper information security can be expensive</name>
+        </child>
+        <child>
+          <name>Incident response judged keenly when employees are implicated</name>
+        </child>
+        <child>
+          <name>Individuals can hide issues during organisational changes</name>
+        </child>
+        <child>
+          <name>Insiders are hard to catch!</name>
+        </child>
+        <child>
+          <name>Insurance claim</name>
+          <children type="array">
+            <child>
+              <name>Insurer did not pay</name>
+            </child>
+            <child>
+              <name>Insurer paid</name>
+            </child>
+            <child>
+              <name>Unclear whether claim will be honoured</name>
+            </child>
+            <child>
+              <name>Victim had no cyber insurance</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Investigations are expensive and worthwhile</name>
+        </child>
+        <child>
+          <name>Layered approach to controlling access and movement of data</name>
+        </child>
+        <child>
+          <name>Merchants are liable for data stolen</name>
+        </child>
+        <child>
+          <name>Mitigation strategies should be physical and virtual</name>
+        </child>
+        <child>
+          <name>Operate a zero trust approach for cyber resilience</name>
+        </child>
+        <child>
+          <name>Opting out should mean removal from the database</name>
+        </child>
+        <child>
+          <name>Organisations not sufficiently reducing phishing and ransomware risks</name>
+        </child>
+        <child>
+          <name>Paying ransom doesn’t guarantee files will be returned</name>
+        </child>
+        <child>
+          <name>Poor cyber security can be a business ending event</name>
+        </child>
+        <child>
+          <name>Quickly get onto the money trail to recover stolen funds</name>
+        </child>
+        <child>
+          <name>Reputational risk of securing data can not be ignored</name>
+        </child>
+        <child>
+          <name>SMS is insufficient for 2FA</name>
+        </child>
+        <child>
+          <name>SWIFT India's systems have never been breached</name>
+        </child>
+        <child>
+          <name>Secure/Productive struggle</name>
+        </child>
+        <child>
+          <name>Security companies are also vulnerable</name>
+        </child>
+        <child>
+          <name>Security settings' misconfiguration has exposed many databases</name>
+        </child>
+        <child>
+          <name>Seek external help when event exceeds internal capabilities</name>
+        </child>
+        <child>
+          <name>Signalled the need for a new defense doctrine</name>
+        </child>
+        <child>
+          <name>Structural problems in cyber risk need active attention</name>
+        </child>
+        <child>
+          <name>Understanding TTPs is essential</name>
+        </child>
+        <child>
+          <name>Victim immediately blamed vendor</name>
+        </child>
+        <child>
+          <name>Victim vulnerable to known threats</name>
+        </child>
+        <child>
+          <name>Victims face backlash if perceived as not taking event seriously </name>
+        </child>
+        <child>
+          <name>Victims play competing roles in cyber attacks</name>
+        </child>
+        <child>
+          <name>Vulnerabilities after management/executive changes</name>
+        </child>
+        <child>
+          <name>Weakest link breaks the strongest chain</name>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>Location of victim</name>
+      <children type="array">
+        <child>
+          <name>Africa</name>
+          <children type="array">
+            <child>
+              <name>Angola</name>
+            </child>
+            <child>
+              <name>Egypt</name>
+            </child>
+            <child>
+              <name>Ethiopia</name>
+            </child>
+            <child>
+              <name>Liberia</name>
+            </child>
+            <child>
+              <name>Nigeria</name>
+            </child>
+            <child>
+              <name>Seychelles</name>
+            </child>
+            <child>
+              <name>South Africa</name>
+            </child>
+            <child>
+              <name>Zimbabwe</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Asia</name>
+          <children type="array">
+            <child>
+              <name>Afghanistan</name>
+            </child>
+            <child>
+              <name>Bahrain</name>
+            </child>
+            <child>
+              <name>Bangladesh</name>
+            </child>
+            <child>
+              <name>British overseas territory</name>
+            </child>
+            <child>
+              <name>Cambodia</name>
+            </child>
+            <child>
+              <name>China</name>
+            </child>
+            <child>
+              <name>Dubai</name>
+            </child>
+            <child>
+              <name>Hong Kong</name>
+            </child>
+            <child>
+              <name>India</name>
+            </child>
+            <child>
+              <name>Indonesia</name>
+            </child>
+            <child>
+              <name>Iran</name>
+            </child>
+            <child>
+              <name>Israel</name>
+            </child>
+            <child>
+              <name>Japan</name>
+            </child>
+            <child>
+              <name>Jordan</name>
+            </child>
+            <child>
+              <name>Malaysia</name>
+            </child>
+            <child>
+              <name>Nepal</name>
+            </child>
+            <child>
+              <name>Pakistan</name>
+            </child>
+            <child>
+              <name>Qatar</name>
+            </child>
+            <child>
+              <name>Saudi Arabia</name>
+            </child>
+            <child>
+              <name>Singapore</name>
+            </child>
+            <child>
+              <name>South Korea</name>
+            </child>
+            <child>
+              <name>Taiwan</name>
+            </child>
+            <child>
+              <name>Thailand</name>
+            </child>
+            <child>
+              <name>The Philippines</name>
+            </child>
+            <child>
+              <name>United Arab Emirates</name>
+            </child>
+            <child>
+              <name>Vietnam</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Europe</name>
+          <children type="array">
+            <child>
+              <name>Austria</name>
+            </child>
+            <child>
+              <name>Belgium</name>
+            </child>
+            <child>
+              <name>Bulgaria</name>
+            </child>
+            <child>
+              <name>Croatia</name>
+            </child>
+            <child>
+              <name>Cyprus</name>
+            </child>
+            <child>
+              <name>Czech Republic</name>
+            </child>
+            <child>
+              <name>Denmark</name>
+            </child>
+            <child>
+              <name>Estonia</name>
+            </child>
+            <child>
+              <name>Finland</name>
+            </child>
+            <child>
+              <name>France</name>
+            </child>
+            <child>
+              <name>Georgia</name>
+            </child>
+            <child>
+              <name>Germany</name>
+            </child>
+            <child>
+              <name>Greece</name>
+            </child>
+            <child>
+              <name>Hungary</name>
+            </child>
+            <child>
+              <name>Iceland</name>
+            </child>
+            <child>
+              <name>Ireland</name>
+            </child>
+            <child>
+              <name>Italy</name>
+            </child>
+            <child>
+              <name>Latvia</name>
+            </child>
+            <child>
+              <name>Lithuania</name>
+            </child>
+            <child>
+              <name>Luxembourg</name>
+            </child>
+            <child>
+              <name>Malta</name>
+            </child>
+            <child>
+              <name>Norway</name>
+            </child>
+            <child>
+              <name>Poland</name>
+            </child>
+            <child>
+              <name>Portugal</name>
+            </child>
+            <child>
+              <name>Romania</name>
+            </child>
+            <child>
+              <name>Russia</name>
+            </child>
+            <child>
+              <name>Slovakia</name>
+            </child>
+            <child>
+              <name>Slovenia</name>
+            </child>
+            <child>
+              <name>Spain</name>
+            </child>
+            <child>
+              <name>Sweden</name>
+            </child>
+            <child>
+              <name>Switzerland</name>
+            </child>
+            <child>
+              <name>The Netherlands</name>
+            </child>
+            <child>
+              <name>Turkey</name>
+            </child>
+            <child>
+              <name>Ukraine</name>
+            </child>
+            <child>
+              <name>United Kingdom</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>North America</name>
+          <children type="array">
+            <child>
+              <name>Canada</name>
+            </child>
+            <child>
+              <name>Jamaica</name>
+            </child>
+            <child>
+              <name>Mexico</name>
+            </child>
+            <child>
+              <name>Panama</name>
+            </child>
+            <child>
+              <name>United States of America</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Oceania</name>
+          <children type="array">
+            <child>
+              <name>Australia</name>
+            </child>
+            <child>
+              <name>New Zealand</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>South America</name>
+          <children type="array">
+            <child>
+              <name>Argentina</name>
+            </child>
+            <child>
+              <name>Brazil</name>
+            </child>
+            <child>
+              <name>Chile</name>
+            </child>
+            <child>
+              <name>Ecuador</name>
+            </child>
+            <child>
+              <name>Venezuela</name>
+            </child>
+          </children>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>New or missing control</name>
+      <children type="array">
+        <child>
+          <name>PDCR model</name>
+          <children type="array">
+            <child>
+              <name>Contain threat</name>
+              <children type="array">
+                <child>
+                  <name>"Air gaps" between back-ups </name>
+                </child>
+                <child>
+                  <name>Deploy network segmentation</name>
+                </child>
+                <child>
+                  <name>Disconnect all third-party tokens</name>
+                </child>
+                <child>
+                  <name>Install patch for zero day</name>
+                </child>
+                <child>
+                  <name>Security automation</name>
+                </child>
+              </children>
+            </child>
+            <child>
+              <name>Detect</name>
+              <children type="array">
+                <child>
+                  <name>Activity alert thresholds</name>
+                </child>
+                <child>
+                  <name>Apply signatures and behavioural-based solutions</name>
+                </child>
+                <child>
+                  <name>DNS request monitoring tool</name>
+                </child>
+                <child>
+                  <name>Deploy endpoint software</name>
+                </child>
+                <child>
+                  <name>Deploy tools with 24/7 coverage</name>
+                </child>
+                <child>
+                  <name>Greater monitoring</name>
+                </child>
+                <child>
+                  <name>Highly sensitive file tracking</name>
+                </child>
+                <child>
+                  <name>Intrusion detection software</name>
+                </child>
+                <child>
+                  <name>Logging system for malicious incursions</name>
+                </child>
+                <child>
+                  <name>Monitor 'suspicious account activity'</name>
+                </child>
+                <child>
+                  <name>Monitor IOCs and react accordingly</name>
+                </child>
+                <child>
+                  <name>Monitor access to password-laden script</name>
+                </child>
+                <child>
+                  <name>Monitor application user behaviour</name>
+                </child>
+                <child>
+                  <name>Monitor customer behaviour</name>
+                  <children type="array">
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Integrate machine learning techniques</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Monitor data at rest</name>
+                </child>
+                <child>
+                  <name>Monitor data download patterns</name>
+                </child>
+                <child>
+                  <name>Monitor domain administrator account</name>
+                </child>
+                <child>
+                  <name>Monitor domain registrations</name>
+                </child>
+                <child>
+                  <name>Monitor emails using your brand</name>
+                </child>
+                <child>
+                  <name>Monitor server logs</name>
+                </child>
+                <child>
+                  <name>Monitor the dark web</name>
+                </child>
+                <child>
+                  <name>Monitor traffic</name>
+                </child>
+                <child>
+                  <name>PAM audit and monitoring tool</name>
+                </child>
+                <child>
+                  <name>Perform security audits</name>
+                  <children type="array">
+                    <child>
+                      <name>Audit authentication points</name>
+                    </child>
+                    <child>
+                      <name>Establish audit trails</name>
+                    </child>
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Perform audit of established network security rules</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Real-time security tools</name>
+                </child>
+                <child>
+                  <name>Red flag mass downloads of data</name>
+                </child>
+                <child>
+                  <name>Security rule misconfiguration alerts</name>
+                </child>
+                <child>
+                  <name>Security rule misconfiguration detection tools</name>
+                </child>
+                <child>
+                  <name>Segregated duties</name>
+                </child>
+              </children>
+            </child>
+            <child>
+              <name>Generic</name>
+            </child>
+            <child>
+              <name>Protect</name>
+              <children type="array">
+                <child>
+                  <name>Anti-virus software</name>
+                  <children type="array">
+                    <child>
+                      <name>Apply email filters</name>
+                    </child>
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Apply most stringent filtering</name>
+                </child>
+                <child>
+                  <name>Automated patching</name>
+                </child>
+                <child>
+                  <name>Automated redaction tool</name>
+                </child>
+                <child>
+                  <name>Block access to personal email sites</name>
+                </child>
+                <child>
+                  <name>Check devices touching network</name>
+                  <children type="array">
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Keep endpoint devices on network segments</name>
+                    </child>
+                    <child>
+                      <name>Scan all devices coming onto network</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>CloudEnabled IAM</name>
+                </child>
+                <child>
+                  <name>Conduct security and background checks</name>
+                </child>
+                <child>
+                  <name>Create an integrated security environment</name>
+                </child>
+                <child>
+                  <name>Deploy electronic funds transfer protocols</name>
+                  <children type="array">
+                    <child>
+                      <name>Check legitimate business need for transfer</name>
+                    </child>
+                    <child>
+                      <name>Do not allow email authorisation</name>
+                    </child>
+                    <child>
+                      <name>Dual-signature for significant transactions</name>
+                    </child>
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Manual engagement with colleagues</name>
+                    </child>
+                    <child>
+                      <name>Match invoice to a purchase order</name>
+                    </child>
+                    <child>
+                      <name>Secondary approvals on large wire transfers</name>
+                    </child>
+                    <child>
+                      <name>Verify transactions through appropriate channels</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Develop a vulnerability notification plan</name>
+                  <children type="array">
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Launch a bug bounty programme</name>
+                    </child>
+                    <child>
+                      <name>Provide a vulnerability submission tool</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Disable all thumb drives </name>
+                </child>
+                <child>
+                  <name>Document workflow processes</name>
+                </child>
+                <child>
+                  <name>Download browser extension</name>
+                </child>
+                <child>
+                  <name>Email authentication tools </name>
+                </child>
+                <child>
+                  <name>Encrypt more data</name>
+                  <children type="array">
+                    <child>
+                      <name>Encrypt all cloud-based data</name>
+                    </child>
+                    <child>
+                      <name>Encrypt data at rest</name>
+                    </child>
+                    <child>
+                      <name>Encrypt script containing passwords</name>
+                    </child>
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Enhance encryption key management</name>
+                </child>
+                <child>
+                  <name>Implement BIOS password requirement</name>
+                </child>
+                <child>
+                  <name>Implement HPKP</name>
+                </child>
+                <child>
+                  <name>Implement ISS</name>
+                </child>
+                <child>
+                  <name>Implement an IAM system</name>
+                </child>
+                <child>
+                  <name>Implement and embed MFA</name>
+                </child>
+                <child>
+                  <name>Implement blacklisting</name>
+                </child>
+                <child>
+                  <name>Implement internal firewalling</name>
+                  <children type="array">
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>PII data firewall</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Implement multiple 'layers' defence</name>
+                </child>
+                <child>
+                  <name>Implement whitelisting</name>
+                </child>
+                <child>
+                  <name>Install 'unsafe computer'</name>
+                </child>
+                <child>
+                  <name>Inventory all devices and implement a NOC-SOC</name>
+                </child>
+                <child>
+                  <name>Obtain certificate authority authorization</name>
+                </child>
+                <child>
+                  <name>Oversight of development work</name>
+                  <children type="array">
+                    <child>
+                      <name>Always salt hashes</name>
+                    </child>
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Manual code review</name>
+                    </child>
+                    <child>
+                      <name>Red flag: refusal of code review</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Perform asset inventory</name>
+                </child>
+                <child>
+                  <name>Perform cyber risk assessment</name>
+                  <children type="array">
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Perform PII data risk assessment</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Perform regular backups</name>
+                </child>
+                <child>
+                  <name>Periodically check email account settings </name>
+                </child>
+                <child>
+                  <name>Principle of least privilege</name>
+                  <children type="array">
+                    <child>
+                      <name>Compartmentalise sensitive data</name>
+                    </child>
+                    <child>
+                      <name>Develop 'important data' framework</name>
+                    </child>
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>High trust/privileged employees</name>
+                    </child>
+                    <child>
+                      <name>Sensitivity-based permissions</name>
+                    </child>
+                    <child>
+                      <name>Sensitivity-level document flagging</name>
+                    </child>
+                    <child>
+                      <name>Understand your data lineage</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Secure IoT</name>
+                </child>
+                <child>
+                  <name>Segregate internet-exposed servers</name>
+                </child>
+                <child>
+                  <name>Strong credential management</name>
+                  <children type="array">
+                    <child>
+                      <name>Change default passwords</name>
+                    </child>
+                    <child>
+                      <name>Credentials not sent over email or stored inappropriately</name>
+                    </child>
+                    <child>
+                      <name>Customer services have no visibility of credentials</name>
+                    </child>
+                    <child>
+                      <name>Device unusable until owner creates own PIN/password</name>
+                    </child>
+                    <child>
+                      <name>Ensure different passwords for different logons</name>
+                    </child>
+                    <child>
+                      <name>Frequent rotation of privileged credentials</name>
+                    </child>
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Immediate access revocation as applicable</name>
+                    </child>
+                    <child>
+                      <name>Implement single sign-on</name>
+                    </child>
+                    <child>
+                      <name>Prevent re-use</name>
+                    </child>
+                    <child>
+                      <name>Protect private keys using a 2FA solution or hardware tokens</name>
+                    </child>
+                    <child>
+                      <name>Require credentials to access password-laden script</name>
+                    </child>
+                    <child>
+                      <name>Simulate a phishing-based attack</name>
+                    </child>
+                    <child>
+                      <name>Social engineering test</name>
+                    </child>
+                    <child>
+                      <name>Use strong passwords</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Use credit-card precautions</name>
+                  <children type="array">
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Match credit card expiry dates</name>
+                    </child>
+                    <child>
+                      <name>Use 3D Secure Technology</name>
+                    </child>
+                    <child>
+                      <name>Use EVM technology</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Use cryptographic segmentation</name>
+                </child>
+                <child>
+                  <name>Use social media precautions</name>
+                  <children type="array">
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Ignore requests from unknown people</name>
+                    </child>
+                    <child>
+                      <name>Isolate Twitter activity</name>
+                    </child>
+                    <child>
+                      <name>Use an app for Twitter activity</name>
+                    </child>
+                  </children>
+                </child>
+              </children>
+            </child>
+            <child>
+              <name>React</name>
+              <children type="array">
+                <child>
+                  <name>Customers asked to install update</name>
+                </child>
+                <child>
+                  <name>Develop business continuity plan</name>
+                </child>
+                <child>
+                  <name>Develop incident response plan</name>
+                  <children type="array">
+                    <child>
+                      <name>Comments section</name>
+                    </child>
+                    <child>
+                      <name>File complaint to law enforcement</name>
+                    </child>
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>Incident response checklists</name>
+                    </child>
+                    <child>
+                      <name>Incident simulation exercise</name>
+                    </child>
+                    <child>
+                      <name>Non-email contact all users </name>
+                    </child>
+                    <child>
+                      <name>Operational incident measurement metrics</name>
+                    </child>
+                    <child>
+                      <name>Operational incident response metrics</name>
+                    </child>
+                    <child>
+                      <name>Security clearance</name>
+                    </child>
+                    <child>
+                      <name>Trial-runs</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Implement password change</name>
+                </child>
+                <child>
+                  <name>Implement password manager</name>
+                  <children type="array">
+                    <child>
+                      <name>Free access offered</name>
+                    </child>
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Implement password reset</name>
+                </child>
+                <child>
+                  <name>Replace/delete digital tokens</name>
+                </child>
+                <child>
+                  <name>Report suspicious activity</name>
+                </child>
+                <child>
+                  <name>SIEM system</name>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Policies and procedures</name>
+          <children type="array">
+            <child>
+              <name>Always leave workstation locked</name>
+            </child>
+            <child>
+              <name>Business travel considerations</name>
+            </child>
+            <child>
+              <name>External expert review</name>
+            </child>
+            <child>
+              <name>Generic</name>
+            </child>
+            <child>
+              <name>Ignore links in breach notification emails</name>
+            </child>
+            <child>
+              <name>Ignore ‘reset password’ requests in emails</name>
+            </child>
+            <child>
+              <name>Important files naming conventions</name>
+            </child>
+            <child>
+              <name>Leave emails in the spam folder</name>
+            </child>
+            <child>
+              <name>No security policy exceptions</name>
+            </child>
+            <child>
+              <name>Personal email address not used for work</name>
+            </child>
+            <child>
+              <name>Understand third parties' methods</name>
+            </child>
+            <child>
+              <name>Untrusted/unknown source emails</name>
+            </child>
+            <child>
+              <name>Use work email accounts for work only</name>
+            </child>
+            <child>
+              <name>Web-based email</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Real-time threat intelligence</name>
+        </child>
+        <child>
+          <name>Security awareness training</name>
+          <children type="array">
+            <child>
+              <name>Educate about BEC and EAC scams</name>
+            </child>
+            <child>
+              <name>Email address/domain name anatomy</name>
+            </child>
+            <child>
+              <name>Generic</name>
+            </child>
+            <child>
+              <name>Implement computer competency test</name>
+            </child>
+            <child>
+              <name>Mouse-over skills</name>
+            </child>
+            <child>
+              <name>SonicWall Phishing IQ Test</name>
+            </child>
+            <child>
+              <name>Think before you click</name>
+            </child>
+          </children>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>Non-control risk mitigation</name>
+      <children type="array">
+        <child>
+          <name>Appoint CISO</name>
+        </child>
+        <child>
+          <name>Appoint compliance officer</name>
+        </child>
+        <child>
+          <name>Appoint information security manager</name>
+        </child>
+        <child>
+          <name>Cyber insurance policy</name>
+        </child>
+        <child>
+          <name>External forensic investigation</name>
+        </child>
+        <child>
+          <name>Limit remote user access</name>
+        </child>
+        <child>
+          <name>Proactive security spend</name>
+        </child>
+        <child>
+          <name>Rebuild new network/server</name>
+        </child>
+        <child>
+          <name>Red Team established</name>
+        </child>
+        <child>
+          <name>Remove technical debt</name>
+        </child>
+        <child>
+          <name>Replace entire computer system</name>
+        </child>
+        <child>
+          <name>Retirement of legacy systems</name>
+        </child>
+        <child>
+          <name>Upgrade computer systems</name>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>OWASP category</name>
+      <children type="array">
+        <child>
+          <name>Broken Access Control</name>
+        </child>
+        <child>
+          <name>Broken Authentication and Session Management</name>
+        </child>
+        <child>
+          <name>Cross-Site Request Forgery</name>
+        </child>
+        <child>
+          <name>Cross-Site Scripting</name>
+        </child>
+        <child>
+          <name>Injection</name>
+        </child>
+        <child>
+          <name>Insufficient Attack Protection</name>
+        </child>
+        <child>
+          <name>Known Vulnerabilities</name>
+        </child>
+        <child>
+          <name>Security Misconfiguration</name>
+        </child>
+        <child>
+          <name>Sensitive Data Exposure</name>
+        </child>
+        <child>
+          <name>Under-protected API</name>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>Risk Category</name>
+      <children type="array">
+        <child>
+          <name>Compliance</name>
+          <children type="array">
+            <child>
+              <name>Compliance</name>
+            </child>
+            <child>
+              <name>Self-regulation</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Exploitation</name>
+          <children type="array">
+            <child>
+              <name>Exploitation I, II, III &amp; VI</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Extortion</name>
+          <children type="array">
+            <child>
+              <name>Extortion I&amp;II</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Operational</name>
+          <children type="array">
+            <child>
+              <name>Destruction</name>
+            </child>
+            <child>
+              <name>Disruption</name>
+            </child>
+            <child>
+              <name>Manipulation </name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Reputational</name>
+          <children type="array">
+            <child>
+              <name>Reputational Damage </name>
+            </child>
+            <child>
+              <name>Violation</name>
+            </child>
+          </children>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>Source Material</name>
+      <children type="array">
+        <child>
+          <name>Company Statement</name>
+        </child>
+        <child>
+          <name>Legal Commentary/Resources</name>
+        </child>
+        <child>
+          <name>Mainstream Media Commentary</name>
+        </child>
+        <child>
+          <name>Regulatory Commentary</name>
+        </child>
+        <child>
+          <name>Security Commentary</name>
+        </child>
+        <child>
+          <name>Third Party Company Statement</name>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>Systems and Tech Failures</name>
+      <children type="array">
+        <child>
+          <name>Hardware</name>
+        </child>
+        <child>
+          <name>Software</name>
+        </child>
+        <child>
+          <name>Systems</name>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>TTPs</name>
+      <children type="array">
+        <child>
+          <name>2FA SMS intercept</name>
+        </child>
+        <child>
+          <name>51% / Majority</name>
+        </child>
+        <child>
+          <name>ATM or POS compromise</name>
+        </child>
+        <child>
+          <name>Backdoor inserted in development</name>
+        </child>
+        <child>
+          <name>Baiting</name>
+        </child>
+        <child>
+          <name>Blue-chip hacking</name>
+        </child>
+        <child>
+          <name>Compromised connected third party</name>
+        </child>
+        <child>
+          <name>Compromised insider attack</name>
+        </child>
+        <child>
+          <name>Cryptojacking</name>
+        </child>
+        <child>
+          <name>Cyber bank robbery</name>
+        </child>
+        <child>
+          <name>DNS redirect</name>
+        </child>
+        <child>
+          <name>Denial of Service</name>
+          <children type="array">
+            <child>
+              <name>Generic</name>
+            </child>
+            <child>
+              <name>Ransom-related DDoS (RDDoS)</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Digital</name>
+          <children type="array">
+            <child>
+              <name>Credential stuffing</name>
+            </child>
+            <child>
+              <name>Device Leave Behind</name>
+            </child>
+            <child>
+              <name>Email spoofing</name>
+            </child>
+            <child>
+              <name>Malware</name>
+              <children type="array">
+                <child>
+                  <name>Adware</name>
+                </child>
+                <child>
+                  <name>Backdoor</name>
+                </child>
+                <child>
+                  <name>Generic/Unspecified</name>
+                </child>
+                <child>
+                  <name>Malware deployed</name>
+                  <children type="array">
+                    <child>
+                      <name>Amnesia 3</name>
+                    </child>
+                    <child>
+                      <name>BitPaymer</name>
+                    </child>
+                    <child>
+                      <name>CryptoLocker</name>
+                    </child>
+                    <child>
+                      <name>Dridex</name>
+                    </child>
+                    <child>
+                      <name>Dtrack</name>
+                    </child>
+                    <child>
+                      <name>Emotet</name>
+                    </child>
+                    <child>
+                      <name>Judy</name>
+                    </child>
+                    <child>
+                      <name>KillMBR</name>
+                    </child>
+                    <child>
+                      <name>Kovter</name>
+                    </child>
+                    <child>
+                      <name>LockerGoga</name>
+                    </child>
+                    <child>
+                      <name>Locky</name>
+                    </child>
+                    <child>
+                      <name>NotPetya</name>
+                    </child>
+                    <child>
+                      <name>Petya</name>
+                    </child>
+                    <child>
+                      <name>PlugX</name>
+                    </child>
+                    <child>
+                      <name>Poison Ivy</name>
+                    </child>
+                    <child>
+                      <name>Regin</name>
+                    </child>
+                    <child>
+                      <name>Robbinhood</name>
+                    </child>
+                    <child>
+                      <name>Ryuk</name>
+                    </child>
+                    <child>
+                      <name>SamSam</name>
+                    </child>
+                    <child>
+                      <name>Shamoon</name>
+                    </child>
+                    <child>
+                      <name>Winnti</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Ransomware</name>
+                  <children type="array">
+                    <child>
+                      <name>Avaddon</name>
+                    </child>
+                    <child>
+                      <name>Babuk Locker</name>
+                    </child>
+                    <child>
+                      <name>Blackmatter</name>
+                    </child>
+                    <child>
+                      <name>Clop</name>
+                    </child>
+                    <child>
+                      <name>Conti</name>
+                    </child>
+                    <child>
+                      <name>CrySIS</name>
+                    </child>
+                    <child>
+                      <name>Defray</name>
+                    </child>
+                    <child>
+                      <name>Dharma</name>
+                    </child>
+                    <child>
+                      <name>DoppelPaymer</name>
+                    </child>
+                    <child>
+                      <name>Egregor</name>
+                    </child>
+                    <child>
+                      <name>Generic</name>
+                    </child>
+                    <child>
+                      <name>LockBit 2.0</name>
+                    </child>
+                    <child>
+                      <name>Lockbit</name>
+                    </child>
+                    <child>
+                      <name>Mailto</name>
+                    </child>
+                    <child>
+                      <name>Maze</name>
+                    </child>
+                    <child>
+                      <name>MegaCortex</name>
+                    </child>
+                    <child>
+                      <name>NetWalker</name>
+                    </child>
+                    <child>
+                      <name>REvil</name>
+                    </child>
+                    <child>
+                      <name>Ragnar Locker</name>
+                    </child>
+                    <child>
+                      <name>SNAKE</name>
+                    </child>
+                    <child>
+                      <name>Sodinokibi</name>
+                    </child>
+                    <child>
+                      <name>SunCrypt</name>
+                    </child>
+                    <child>
+                      <name>WannaCry</name>
+                    </child>
+                    <child>
+                      <name>WastedLocker</name>
+                    </child>
+                  </children>
+                </child>
+                <child>
+                  <name>Spyware</name>
+                </child>
+                <child>
+                  <name>Trojan</name>
+                </child>
+                <child>
+                  <name>Virus</name>
+                </child>
+                <child>
+                  <name>Worms</name>
+                </child>
+              </children>
+            </child>
+            <child>
+              <name>Phishing</name>
+              <children type="array">
+                <child>
+                  <name>BEC/EAC or CEO scam</name>
+                </child>
+                <child>
+                  <name>Deceptive</name>
+                </child>
+                <child>
+                  <name>Dropbox</name>
+                </child>
+                <child>
+                  <name>Employee impersonation</name>
+                </child>
+                <child>
+                  <name>Generic</name>
+                </child>
+                <child>
+                  <name>MITM</name>
+                </child>
+                <child>
+                  <name>Password Reset Attack</name>
+                </child>
+                <child>
+                  <name>Social media</name>
+                </child>
+                <child>
+                  <name>Spearphishing</name>
+                </child>
+              </children>
+            </child>
+            <child>
+              <name>Pretexting</name>
+            </child>
+            <child>
+              <name>Website Spoofing</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Double-spending</name>
+        </child>
+        <child>
+          <name>Forged cookies</name>
+        </child>
+        <child>
+          <name>Formjacking</name>
+        </child>
+        <child>
+          <name>In-Person</name>
+          <children type="array">
+            <child>
+              <name>Open Access Employee</name>
+            </child>
+            <child>
+              <name>Rogue Employee</name>
+            </child>
+            <child>
+              <name>Suspected employee involvement</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Island-hopping</name>
+          <children type="array">
+            <child>
+              <name>Network island-hopping</name>
+            </child>
+            <child>
+              <name>Website converted into 'watering hole'</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Known vulnerability exploited</name>
+          <children type="array">
+            <child>
+              <name>Buffer-overflow</name>
+            </child>
+            <child>
+              <name>EternalBlue</name>
+            </child>
+            <child>
+              <name>FG-IR-18-384/CVE-2018-13379</name>
+            </child>
+            <child>
+              <name>Generic</name>
+            </child>
+            <child>
+              <name>Heartbleed</name>
+            </child>
+            <child>
+              <name>Sentry MBA</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Logic bomb</name>
+        </child>
+        <child>
+          <name>Magecart attack</name>
+        </child>
+        <child>
+          <name>Meow cyber attack</name>
+        </child>
+        <child>
+          <name>Online piracy</name>
+        </child>
+        <child>
+          <name>Phone</name>
+          <children type="array">
+            <child>
+              <name>Impersonation</name>
+            </child>
+            <child>
+              <name>Vishing (voice phishing)</name>
+            </child>
+            <child>
+              <name>Voice biometrics spoof</name>
+            </child>
+            <child>
+              <name>Voicemail 'hacking'</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Remote storage device</name>
+        </child>
+        <child>
+          <name>Reverse social engineering means</name>
+        </child>
+        <child>
+          <name>Sim swap scam</name>
+        </child>
+        <child>
+          <name>Social engineering means </name>
+        </child>
+        <child>
+          <name>Supply chain attack</name>
+        </child>
+        <child>
+          <name>Zero day exploit</name>
+        </child>
+        <child>
+          <name>Zoom bombing</name>
+        </child>
+      </children>
+    </child>
+    <child>
+      <name>Uncovered by</name>
+      <children type="array">
+        <child>
+          <name>Customer</name>
+          <children type="array">
+            <child>
+              <name>Generic</name>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Employee</name>
+          <children type="array">
+            <child>
+              <name>CEO</name>
+            </child>
+            <child>
+              <name>Engineering team</name>
+            </child>
+            <child>
+              <name>Generic</name>
+            </child>
+            <child>
+              <name>Internal audit</name>
+            </child>
+            <child>
+              <name>Security team</name>
+              <children type="array">
+                <child>
+                  <name>CISO</name>
+                </child>
+                <child>
+                  <name>Penetration testing</name>
+                </child>
+                <child>
+                  <name>Routine checks</name>
+                </child>
+                <child>
+                  <name>Suspicious traffic/code identified</name>
+                </child>
+              </children>
+            </child>
+          </children>
+        </child>
+        <child>
+          <name>Third Party</name>
+          <children type="array">
+            <child>
+              <name>Attacker tip-off</name>
+            </child>
+            <child>
+              <name>Connected service provider</name>
+            </child>
+            <child>
+              <name>Contractor</name>
+            </child>
+            <child>
+              <name>External audit</name>
+            </child>
+            <child>
+              <name>Generic</name>
+            </child>
+            <child>
+              <name>Journalist</name>
+            </child>
+            <child>
+              <name>Law enforcement agency</name>
+            </child>
+            <child>
+              <name>Regulatory / Supervisory Visit</name>
+            </child>
+            <child>
+              <name>Researcher</name>
+            </child>
+            <child>
+              <name>Security firm automated software</name>
+            </child>
+            <child>
+              <name>Unconnected service provider</name>
+            </child>
+          </children>
+        </child>
+      </children>
+    </child>
+  </children>
+</taxonomy>
