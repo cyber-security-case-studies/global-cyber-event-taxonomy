@@ -10,9 +10,9 @@ This repository contains both JSON and XML versions of the GCET. New versions wi
 
 Major structual changes will first be proposed as a pull request and if there's no public objections within 30 calendar days, will be merged into the master branch.
 
-Any feedback, thoughts, additions or modifications are welcomed and should be submitted either using the [Issues](/issues) tab above or through submitting a [pull request](/pulls)
+Any feedback, thoughts, additions or modifications are welcomed and should be submitted either using the [Issues](https://github.com/cyber-security-case-studies/global-cyber-event-taxonomy/issues) tab above or through submitting a [pull request](https://github.com/cyber-security-case-studies/global-cyber-event-taxonomy/pulls)
 
 ## Visualised
 A visual representation of the taxonomy using the [Radial Tidy Tree visualisation from the D3 library](https://github.com/d3/d3) can be viewed below (**Note:** This may not necessarily incorporate the most recent data)
 
-![alt text](/gcet-taxonomy-full-view.png "Full view of the Global Cyber Event Taxonomy laid out as a radial tree")
+![alt text](gcet-taxonomy-full-view.png "Full view of the Global Cyber Event Taxonomy laid out as a radial tree")
